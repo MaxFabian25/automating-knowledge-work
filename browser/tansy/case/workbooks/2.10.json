@@ -1,0 +1,62 @@
+{
+  "_note": "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+  "sheets": [
+    {
+      "name": "Notes",
+      "kind": "notes",
+      "title": "Vennacott Holdings Limited: basis and notes",
+      "lines": [
+        "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+        "GBP thousands including VAT, aged from invoice date. Provision of £80k against balances over 90 days is not deducted below."
+      ]
+    },
+    {
+      "name": "Aged debtors",
+      "title": "Aged debtors",
+      "kind": "table",
+      "units": "GBP thousands, including VAT; ageing by invoice date",
+      "header": [
+        "Customer",
+        "0-30 days",
+        "31-60 days",
+        "61-90 days",
+        "Over 90 days",
+        "Total"
+      ],
+      "rows": [
+        [
+          "Wendmoor Housing Group",
+          700,
+          130,
+          20,
+          0,
+          850
+        ],
+        [
+          "Larchfold Facilities Management Ltd",
+          520,
+          90,
+          10,
+          0,
+          620
+        ],
+        [
+          "Other customers",
+          4100,
+          660,
+          180,
+          140,
+          5080
+        ],
+        [
+          "Total trade debtors",
+          5320,
+          880,
+          210,
+          140,
+          6550
+        ]
+      ]
+    }
+  ]
+}

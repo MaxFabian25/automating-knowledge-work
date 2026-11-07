@@ -1,0 +1,23 @@
+date	2026-11-07T14:07:34+01:00
+case	<home>/outputs/automating-knowledge-work/runs/browser-tansy/case.json
+producer	codex
+reviewer	claude
+session	tansy-final-codex-12cffe
+limit	45m
+claude	2.1.318 (Claude Code)	claude-opus-5-5	effort high
+codex	codex-cli 0.166.0	gpt-6-astra	effort high
+agent-browser	agent-browser 0.41.0
+chrome	Google Chrome 155.0.8059.39 
+bwrap	bubblewrap 0.9.0
+pdftotext	pdftotext version 24.02.0
+python	Python 3.14.9
+openpyxl	3.1.5
+sha256	af4fe04bd26792567388373732493503c57561460bffce4ce71d6ee26c8854a0	<home>/outputs/automating-knowledge-work/runs/browser-kit/run.sh
+sha256	1644b2cd8054b3b28f85cfd5243a938081328e0f7708789330f9ce592506ab99	<home>/outputs/automating-knowledge-work/runs/browser-kit/sandbox.sh
+sha256	279e8722910e6e9d7170bfc94f45afd7fb1bdf8d361c358991a4142465534df9	<home>/outputs/automating-knowledge-work/runs/browser-kit/toolkit/AGENTS.md
+sha256	336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49	<home>/outputs/automating-knowledge-work/runs/browser-kit/toolkit/CLAUDE.md
+sha256	082a24956759fce92b42972f62039dac712b09d2ad339e97c36ab9ebef916661	<home>/outputs/automating-knowledge-work/runs/browser-kit/toolkit/check_answers.py
+sha256	bc8193cb249db9487bf8464c0ae077ba7faca4378f32c1a5e8ddbb2eddadf176	<home>/outputs/automating-knowledge-work/runs/browser-kit/review/AGENTS.md
+sha256	336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49	<home>/outputs/automating-knowledge-work/runs/browser-kit/review/CLAUDE.md
+sha256	869d268831b841b5b4f1e00e265ef0719e49e308d87e330fb6e8239edade9aa2	<home>/outputs/automating-knowledge-work/runs/browser-tansy/case.json
+sha256	e10cd789d392d37f78b4f519816879f0c316bf727bf5c6cf772e22d5cca8f428	<home>/outputs/automating-knowledge-work/runs/browser-tansy/brief.md

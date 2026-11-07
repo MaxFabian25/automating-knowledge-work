@@ -1,0 +1,7 @@
+https://akw-data-room.maxfabian31.workers.dev/qa.html (entry data: https://akw-data-room.maxfabian31.workers.dev/data/qa.json)
+Retrieved 2026-11-07 via agent-browser session.
+
+Q-06 [Commercial] status: Answered; asked 2026-10-16; answered 2026-10-19
+Question: Why is Dunstreath absent from the top-customer schedule?
+Answer: Dunstreath Retail Group plc left for a national facilities-management provider. The contract ended on 31 March 2026; FY2026 revenue was £3,420k on the management accounts basis. No other customer that has stopped trading with the group since 1 April 2025 had FY2026 revenue above £250k, counting all group companies, contracts and project work.
+Referenced documents: 3.1, 1.2

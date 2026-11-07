@@ -1,0 +1,11 @@
+{
+ "5:exists": {"pass": true, "note": "Earn-out calculated on Kilcarrow's EBITDA for the year ending 31 March 2027 (2.2 note 4)."},
+ "5:amount": {"pass": true, "note": "Amount redacted and SPA unavailable; says the 4,120 accruals total is not the earn-out."},
+ "5:date": {"pass": true, "note": "No payment date given; not estimated."},
+ "5:follow-up": {"pass": true, "note": "Missing: earn-out amount and SPA payment terms; cites Q-09."},
+ "7:consent": {"pass": true, "note": "Yes; Majority Lenders' consent in advance; 100% of a single class of shares (1.4)."},
+ "7:remedy": {"pass": true, "note": "Each lender may cancel its commitment and declare its share of all loans immediately due and payable."},
+ "7:period": {"pass": true, "note": "Within 30 days after the change of control, by notice from the lender."},
+ "7:source": {"pass": true, "note": "Cites 2.7 v1 and 2.11 v1; says 2.11 leaves the clause unchanged."},
+ "10:restriction": {"pass": true, "note": "4.2 not provided, view only, citing the terms; vendor release through Q&A; no copy made."}
+}

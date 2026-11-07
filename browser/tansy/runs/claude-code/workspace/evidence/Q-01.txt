@@ -1,0 +1,7 @@
+https://akw-data-room.maxfabian31.workers.dev/qa.html (entry data: https://akw-data-room.maxfabian31.workers.dev/data/qa.json)
+Retrieved 2026-11-07 via agent-browser session.
+
+Q-01 [Financial] status: Answered; asked 2026-10-05; answered 2026-10-07
+Question: Why do management and audited FY2026 revenue differ?
+Answer: The installation cut-off adjustment is £290k. See 2.6 for the full reconciliation.
+Referenced documents: 2.6, 2.2, 2.3

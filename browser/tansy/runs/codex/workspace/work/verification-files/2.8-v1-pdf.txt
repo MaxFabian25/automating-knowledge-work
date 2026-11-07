@@ -1,0 +1,33 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=2.8-v1
+                   Made-up data room for testing agents. Every company, person and figure here is fictional.
+
+Project Tansy · Document 2.8 · Version 1
+
+Compliance certificate, test date 30 September 2026
+Vennacott Holdings Limited and subsidiaries · Uploaded 2026-10-28 · Strictly private and confidential
+
+
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+
+To Calvemont Bank plc as agent. Delivered 28 October 2026 by Vennacott Holdings Limited. Test date: 30
+September 2026.
+
+ Measure                                                                                       Reported          Requirement
+
+ Net debt (£000)                                                                                  26,640
+
+ Consolidated EBITDA as defined, twelve months to 30 September 2026 (£000)                         9,380
+ Leverage                                                                                         2.84:1       Maximum 3.25:1
+
+ Interest cover                                                                                   6.10:1       Minimum 4.00:1
+
+
+Consolidated EBITDA as defined adds back share-based payment charges and other items permitted by the
+facility agreement.
+
+Net debt at the test date comprises drawn term loan £22,000k plus drawn RCF £6,500k less cash £1,860k,
+totalling £26,640k. The RCF commitment is £8,000k.
+
+We certify compliance with the financial covenants under the facilities agreement as amended. Signed for
+Vennacott Holdings Limited by the chief financial officer.
+

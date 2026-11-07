@@ -1,0 +1,7 @@
+{
+ "room": "https://akw-data-room.maxfabian31.workers.dev",
+ "domain": "akw-data-room.maxfabian31.workers.dev",
+ "codename": "tansy",
+ "requests": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+ "brief": "brief.md"
+}

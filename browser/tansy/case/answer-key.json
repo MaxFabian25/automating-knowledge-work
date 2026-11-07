@@ -1,0 +1,833 @@
+{
+ "_note": "Made-up data room for testing agents. Every company, person and figure here is fictional. Private answers; never served.",
+ "case_id": "pub-tansy",
+ "request_list": "request-list.md",
+ "requests": [
+  {
+   "id": 1,
+   "topic": "Last twelve months",
+   "answer": "Revenue 68,020; EBITDA 9,260",
+   "unit": "GBP thousands",
+   "period": "Twelve months ended 30 September 2026",
+   "basis": "Monthly management accounts; before exceptional items",
+   "sources": [
+    {
+     "index": "2.3",
+     "version": 1
+    },
+    {
+     "index": "2.4",
+     "version": 1
+    }
+   ],
+   "facts": [
+    {
+     "label": "FY revenue",
+     "value": 62090,
+     "xlsx": "2.3",
+     "sheet": "P&L",
+     "row": "Total revenue",
+     "col": "FY2026"
+    },
+    {
+     "label": "FY EBITDA",
+     "value": 8450,
+     "xlsx": "2.3",
+     "sheet": "P&L",
+     "row": "EBITDA before exceptional items",
+     "col": "FY2026"
+    },
+    {
+     "label": "Prior H1 revenue",
+     "value": 28450,
+     "xlsx": "2.4",
+     "sheet": "P&L",
+     "row": "Total revenue",
+     "col": "H1 FY2026"
+    },
+    {
+     "label": "Prior H1 EBITDA",
+     "value": 3710,
+     "xlsx": "2.4",
+     "sheet": "P&L",
+     "row": "EBITDA before exceptional items",
+     "col": "H1 FY2026"
+    },
+    {
+     "label": "Current H1 revenue",
+     "value": 34380,
+     "xlsx": "2.4",
+     "sheet": "P&L",
+     "row": "Total revenue",
+     "col": "H1 FY2027"
+    },
+    {
+     "label": "Current H1 EBITDA",
+     "value": 4520,
+     "xlsx": "2.4",
+     "sheet": "P&L",
+     "row": "EBITDA before exceptional items",
+     "col": "H1 FY2027"
+    }
+   ],
+   "derived": [
+    {
+     "label": "LTM revenue",
+     "value": 68020,
+     "op": "sum_signed",
+     "args": [
+      "FY revenue",
+      "-Prior H1 revenue",
+      "Current H1 revenue"
+     ]
+    },
+    {
+     "label": "LTM EBITDA",
+     "value": 9260,
+     "op": "sum_signed",
+     "args": [
+      "FY EBITDA",
+      "-Prior H1 EBITDA",
+      "Current H1 EBITDA"
+     ]
+    }
+   ],
+   "pitfalls": [
+    "FY2026 alone 62,090 / 8,450; H1 doubled 68,760 / 9,040; audited FY2026 mixed in 67,730; covenant EBITDA 9,380"
+   ]
+  },
+  {
+   "id": 2,
+   "topic": "Organic growth",
+   "answer": "Reported 20.8%; organic 14.3% (Kilcarrow out of both periods: 30,360 against 26,570)",
+   "unit": "Percent, one decimal",
+   "period": "Six months ended 30 September 2026 versus 30 September 2025",
+   "basis": "Monthly management accounts; organic perimeter defined in 2.4 Notes",
+   "sources": [
+    {
+     "index": "2.4",
+     "version": 1
+    }
+   ],
+   "facts": [
+    {
+     "label": "Prior H1 revenue",
+     "value": 28450,
+     "xlsx": "2.4",
+     "sheet": "P&L",
+     "row": "Total revenue",
+     "col": "H1 FY2026"
+    },
+    {
+     "label": "Current H1 revenue",
+     "value": 34380,
+     "xlsx": "2.4",
+     "sheet": "P&L",
+     "row": "Total revenue",
+     "col": "H1 FY2027"
+    },
+    {
+     "label": "Prior Kilcarrow",
+     "value": 1880,
+     "xlsx": "2.4",
+     "sheet": "Revenue by company",
+     "row": "Kilcarrow Fire Protection Limited",
+     "col": "H1 FY2026"
+    },
+    {
+     "label": "Current Kilcarrow",
+     "value": 4020,
+     "xlsx": "2.4",
+     "sheet": "Revenue by company",
+     "row": "Kilcarrow Fire Protection Limited",
+     "col": "H1 FY2027"
+    },
+    {
+     "label": "Kilcarrow April to June",
+     "value": 1990,
+     "xlsx": "2.4",
+     "sheet": "Revenue by company",
+     "row": "Kilcarrow Fire Protection Limited",
+     "col": null,
+     "cols": [
+      "Apr-26",
+      "May-26",
+      "Jun-26"
+     ]
+    },
+    {
+     "label": "Organic definition",
+     "value": "Organic revenue excludes, from both the current and the comparative period, the revenue of any business acquired in the 24 months before the end of the current period.",
+     "workbook": "2.4",
+     "sheet": "Notes"
+    }
+   ],
+   "derived": [
+    {
+     "label": "Reported growth",
+     "value": 20.8,
+     "op": "pct_change",
+     "args": [
+      "Current H1 revenue",
+      "Prior H1 revenue"
+     ]
+    },
+    {
+     "label": "Current organic revenue",
+     "value": 30360,
+     "op": "diff",
+     "args": [
+      "Current H1 revenue",
+      "Current Kilcarrow"
+     ]
+    },
+    {
+     "label": "Prior organic revenue",
+     "value": 26570,
+     "op": "diff",
+     "args": [
+      "Prior H1 revenue",
+      "Prior Kilcarrow"
+     ]
+    },
+    {
+     "label": "Organic growth",
+     "value": 14.3,
+     "op": "pct_change",
+     "args": [
+      "Current organic revenue",
+      "Prior organic revenue"
+     ]
+    },
+    {
+     "label": "Current-only pitfall",
+     "value": 6.7,
+     "op": "pct_change",
+     "args": [
+      "Current organic revenue",
+      "Prior H1 revenue"
+     ]
+    },
+    {
+     "label": "April-June-only revenue",
+     "value": 32390,
+     "op": "diff",
+     "args": [
+      "Current H1 revenue",
+      "Kilcarrow April to June"
+     ]
+    },
+    {
+     "label": "April-June-only pitfall",
+     "value": 13.8,
+     "op": "pct_change",
+     "args": [
+      "April-June-only revenue",
+      "Prior H1 revenue"
+     ]
+    }
+   ],
+   "pitfalls": [
+    "Kilcarrow out of the current period only 6.7%; out of April to June 2026 only 13.8%"
+   ]
+  },
+  {
+   "id": 3,
+   "topic": "Audited results",
+   "answer": "FY2026 revenue 61,800, operating profit 5,630; FY2025 restated revenue 51,650, operating profit 4,550",
+   "unit": "GBP thousands",
+   "period": "Years ended 31 March 2025 and 31 March 2026",
+   "basis": "Audited consolidated accounts; restated comparative",
+   "sources": [
+    {
+     "index": "2.2",
+     "version": 1
+    }
+   ],
+   "facts": [
+    {
+     "label": "FY2026 revenue",
+     "value": 61800,
+     "doc": "2.2",
+     "version": 1
+    },
+    {
+     "label": "FY2026 operating profit",
+     "value": 5630,
+     "doc": "2.2",
+     "version": 1
+    },
+    {
+     "label": "Restated FY2025 revenue",
+     "value": 51650,
+     "doc": "2.2",
+     "version": 1
+    },
+    {
+     "label": "Restated FY2025 operating profit",
+     "value": 4550,
+     "doc": "2.2",
+     "version": 1
+    },
+    {
+     "label": "Comparative basis",
+     "value": "2025 (restated)",
+     "doc": "2.2",
+     "version": 1
+    }
+   ],
+   "derived": [],
+   "pitfalls": [
+    "FY2025 as first reported 52,400 / 4,960"
+   ]
+  },
+  {
+   "id": 4,
+   "topic": "Leverage covenant",
+   "answer": "Maximum 3.25:1; reported 2.84:1",
+   "unit": "Ratio to two decimals, :1",
+   "period": "Test date 30 September 2026",
+   "basis": "Facilities as amended; reported covenant calculation",
+   "sources": [
+    {
+     "index": "2.11",
+     "version": 1
+    },
+    {
+     "index": "2.7",
+     "version": 1
+    },
+    {
+     "index": "2.8",
+     "version": 1
+    },
+    {
+     "qa": "Q-07"
+    }
+   ],
+   "facts": [
+    {
+     "label": "Maximum",
+     "value": 3.25,
+     "doc": "2.11",
+     "version": 1,
+     "text": "3.25:1"
+    },
+    {
+     "label": "Reported",
+     "value": 2.84,
+     "doc": "2.8",
+     "version": 1,
+     "text": "2.84:1"
+    },
+    {
+     "label": "Cover",
+     "value": 6.1,
+     "doc": "2.8",
+     "version": 1,
+     "text": "6.10:1"
+    },
+    {
+     "label": "Old maximum",
+     "value": 3.0,
+     "doc": "2.7",
+     "version": 1,
+     "text": "3.00:1"
+    },
+    {
+     "label": "Minimum cover",
+     "value": 4.0,
+     "doc": "2.7",
+     "version": 1,
+     "text": "4.00:1"
+    },
+    {
+     "label": "Amendment timing",
+     "value": "returning to 3.00:1 from 30 June 2027",
+     "qa": "Q-07"
+    }
+   ],
+   "derived": [],
+   "pitfalls": [
+    "3.00 as the September 2026 maximum"
+   ]
+  },
+  {
+   "id": 5,
+   "topic": "Kilcarrow consideration",
+   "answer": "Known: cash paid on completion; contingent consideration exists, calculated on Kilcarrow's FY2027 EBITDA, with an undisclosed estimate within accruals at 31 March 2026. Not in the room: the amount outstanding and any payment date; the SPA is awaited (Q-09). Follow-up: the SPA and a schedule of consideration outstanding",
+   "unit": "GBP thousands; payment dates undisclosed",
+   "period": "Outstanding at request date 9 November 2026; accounting estimate at 31 March 2026",
+   "basis": "Bounded disclosure: distinguish completion cash, contingent estimate and missing SPA",
+   "sources": [
+    {
+     "index": "2.2",
+     "version": 1
+    },
+    {
+     "qa": "Q-09"
+    }
+   ],
+   "facts": [
+    {
+     "label": "Completion cash",
+     "value": 8280,
+     "doc": "2.2",
+     "version": 1
+    },
+    {
+     "label": "Performance period",
+     "value": "year ending 31 March 2027",
+     "doc": "2.2",
+     "version": 1
+    },
+    {
+     "label": "Estimate location",
+     "value": "included within accruals of £4,120k in total and is not disclosed separately",
+     "doc": "2.2",
+     "version": 1
+    },
+    {
+     "label": "SPA status",
+     "value": "once the Kilcarrow vendors’ consent to disclosure is in place",
+     "qa": "Q-09"
+    }
+   ],
+   "derived": [],
+   "pitfalls": [
+    "4,120 given as the amount; any invented amount, zero or payment date"
+   ],
+   "rubric": {
+    "known": [
+     "Cash paid on completion",
+     "Contingent amount based on FY2027 EBITDA",
+     "Undisclosed estimate within aggregate accruals"
+    ],
+    "missing": [
+     "Amount outstanding",
+     "Payment dates"
+    ],
+    "follow_up": [
+     "SPA",
+     "Current schedule of outstanding consideration and payment dates"
+    ],
+    "reject": [
+     "Aggregate accruals as consideration",
+     "Invented amount, zero or date"
+    ]
+   }
+  },
+  {
+   "id": 6,
+   "topic": "Customer concentration",
+   "answer": "Wendmoor 5,960; Larchfold 4,310; Dunstreath 3,420 (lost, not in 3.1); Corrigal 3,240; combined 16,930, 27.3% of 62,090. No other customer qualifies",
+   "unit": "GBP thousands; combined share percent to one decimal",
+   "period": "Year ended 31 March 2026",
+   "basis": "All group companies, contracts and project work; management revenue denominator",
+   "sources": [
+    {
+     "index": "3.1",
+     "version": 1
+    },
+    {
+     "qa": "Q-06"
+    },
+    {
+     "qa": "Q-06"
+    }
+   ],
+   "facts": [
+    {
+     "label": "Wendmoor Housing Group",
+     "value": 5960,
+     "xlsx": "3.1",
+     "sheet": "Top customers",
+     "row": "Wendmoor Housing Group",
+     "col": "FY2026"
+    },
+    {
+     "label": "Larchfold Facilities Management Ltd",
+     "value": 4310,
+     "xlsx": "3.1",
+     "sheet": "Top customers",
+     "row": "Larchfold Facilities Management Ltd",
+     "col": "FY2026"
+    },
+    {
+     "label": "Corrigal Retail Parks plc",
+     "value": 3240,
+     "xlsx": "3.1",
+     "sheet": "Top customers",
+     "row": "Corrigal Retail Parks plc",
+     "col": "FY2026"
+    },
+    {
+     "label": "Dunstreath",
+     "value": 3420,
+     "qa": "Q-06"
+    },
+    {
+     "label": "FY denominator",
+     "value": 62090,
+     "xlsx": "3.1",
+     "sheet": "Top customers",
+     "row": "Total revenue (management basis)",
+     "col": "FY2026"
+    },
+    {
+     "label": "Thornacre",
+     "value": 2980,
+     "xlsx": "3.1",
+     "sheet": "Top customers",
+     "row": "Thornacre Care Homes Ltd",
+     "col": "FY2026"
+    },
+    {
+     "label": "Population closure",
+     "value": "Revenue per customer is the total across all group companies, contracts and project work, on the management accounts basis. The ten largest customers by H1 FY2027 revenue are listed. Customers that no longer trade with the group are not listed. Every other customer still trading with the group had less than 2.0% of group revenue in each period shown.",
+     "workbook": "3.1",
+     "sheet": "Notes"
+    },
+    {
+     "label": "Lost customer closure",
+     "value": "No other customer that has stopped trading with the group since 1 April 2025 had FY2026 revenue above £250k, counting all group companies, contracts and project work.",
+     "qa": "Q-06"
+    }
+   ],
+   "derived": [
+    {
+     "label": "Qualifying total",
+     "value": 16930,
+     "op": "sum",
+     "args": [
+      "Wendmoor Housing Group",
+      "Larchfold Facilities Management Ltd",
+      "Corrigal Retail Parks plc",
+      "Dunstreath"
+     ]
+    },
+    {
+     "label": "Combined share",
+     "value": 27.3,
+     "op": "ratio_pct",
+     "args": [
+      "Qualifying total",
+      "FY denominator"
+     ]
+    }
+   ],
+   "pitfalls": [
+    "Without Dunstreath 13,510 / 21.8%; audited denominator 27.4%; Thornacre listed"
+   ],
+   "exact_customer_set": [
+    "Wendmoor Housing Group",
+    "Larchfold Facilities Management Ltd",
+    "Corrigal Retail Parks plc",
+    "Dunstreath Retail Group plc"
+   ]
+  },
+  {
+   "id": 7,
+   "topic": "Change of control",
+   "answer": "Yes: the Majority Lenders' prior consent is needed, because the buyer would gain control and isn't a Skerrow fund. Without it, each lender may cancel its commitment and declare its share of the loans immediately due and payable, by notice within 30 days. The amendment letter leaves the clause unchanged",
+   "unit": "Consent requirement; rights; days",
+   "period": "Proposed whole-share-capital acquisition",
+   "basis": "Change-of-control clause in 2.7, unchanged by 2.11",
+   "sources": [
+    {
+     "index": "2.11",
+     "version": 1
+    },
+    {
+     "index": "2.7",
+     "version": 1
+    }
+   ],
+   "facts": [
+    {
+     "label": "Control threshold",
+     "value": "more than 50% of the voting shares",
+     "doc": "2.7",
+     "version": 1
+    },
+    {
+     "label": "Consent",
+     "value": "Majority Lenders have not consented in advance",
+     "doc": "2.7",
+     "version": 1
+    },
+    {
+     "label": "Lender rights",
+     "value": "each lender may, by notice given within 30 days, cancel its commitment and declare its share of all loans immediately due and payable",
+     "doc": "2.7",
+     "version": 1
+    },
+    {
+     "label": "Amendment scope",
+     "value": "All other terms, including the change-of-control clause, remain unchanged",
+     "doc": "2.11",
+     "version": 1
+    }
+   ],
+   "derived": [],
+   "pitfalls": [
+    "\"No consent needed\"; the covenant position offered as the answer"
+   ],
+   "rubric": {
+    "required": [
+     "Buyer acquires control and is not a Skerrow fund",
+     "Majority Lenders prior consent",
+     "Each lender may cancel commitment and accelerate its share",
+     "Notice given within 30 days, not a 30-day waiting period",
+     "Amendment leaves clause unchanged"
+    ]
+   }
+  },
+  {
+   "id": 8,
+   "topic": "Ardnacree claim",
+   "answer": "€642,500 (plus interest to be assessed, not quantified); £543k at 0.8455; provision £210k",
+   "unit": "Exact EUR; GBP thousands rounded to nearest whole thousand",
+   "period": "Letter 12 March 2026; closing rate and provision at 31 March 2026",
+   "basis": "Quantified damages plus costs, excluding unquantified interest; closing not average FX",
+   "sources": [
+    {
+     "index": "2.2",
+     "version": 1
+    },
+    {
+     "index": "6.2",
+     "version": 1
+    }
+   ],
+   "facts": [
+    {
+     "label": "Damages",
+     "value": 598000,
+     "doc": "6.2",
+     "version": 1
+    },
+    {
+     "label": "Quantified costs",
+     "value": 44500,
+     "doc": "6.2",
+     "version": 1
+    },
+    {
+     "label": "Total quantified euros",
+     "value": 642500,
+     "doc": "6.2",
+     "version": 1
+    },
+    {
+     "label": "Closing rate",
+     "value": 0.8455,
+     "doc": "2.2",
+     "version": 1,
+     "text": "0.8455"
+    },
+    {
+     "label": "Average rate",
+     "value": 0.8512,
+     "doc": "2.2",
+     "version": 1,
+     "text": "0.8512"
+    },
+    {
+     "label": "Provision",
+     "value": 210,
+     "doc": "2.2",
+     "version": 1,
+     "text": "provision of £210k"
+    },
+    {
+     "label": "Interest",
+     "value": "interest to be assessed",
+     "doc": "6.2",
+     "version": 1
+    }
+   ],
+   "derived": [
+    {
+     "label": "Quantified euros cross-check",
+     "value": 642500,
+     "op": "sum",
+     "args": [
+      "Damages",
+      "Quantified costs"
+     ]
+    },
+    {
+     "label": "GBP claim",
+     "value": 543233.75,
+     "op": "product",
+     "args": [
+      "Total quantified euros",
+      "Closing rate"
+     ]
+    },
+    {
+     "label": "GBP thousands rounded",
+     "value": 543,
+     "op": "thousands",
+     "args": [
+      "GBP claim"
+     ]
+    },
+    {
+     "label": "Average rate GBP",
+     "value": 546896,
+     "op": "product",
+     "args": [
+      "Total quantified euros",
+      "Average rate"
+     ]
+    },
+    {
+     "label": "Average rate pitfall",
+     "value": 547,
+     "op": "thousands",
+     "args": [
+      "Average rate GBP"
+     ]
+    },
+    {
+     "label": "Damages GBP",
+     "value": 505609,
+     "op": "product",
+     "args": [
+      "Damages",
+      "Closing rate"
+     ]
+    },
+    {
+     "label": "Damages-only pitfall",
+     "value": 506,
+     "op": "thousands",
+     "args": [
+      "Damages GBP"
+     ]
+    }
+   ],
+   "pitfalls": [
+    "Average rate 547; damages only 506; euro total rounded"
+   ]
+  },
+  {
+   "id": 9,
+   "topic": "Employees",
+   "answer": "609.8 FTE; Kilcarrow 58.6 FTE",
+   "unit": "FTE, one decimal",
+   "period": "30 September 2026",
+   "basis": "Complete group census v2; not heads",
+   "sources": [
+    {
+     "index": "4.1",
+     "version": 2
+    },
+    {
+     "qa": "Q-12"
+    }
+   ],
+   "facts": [
+    {
+     "label": "Group FTE",
+     "value": 609.8,
+     "xlsx": "4.1",
+     "sheet": "Census",
+     "row": "Total",
+     "col": "FTE",
+     "version": 2,
+     "text": "609.8"
+    },
+    {
+     "label": "Kilcarrow FTE",
+     "value": 58.6,
+     "xlsx": "4.1",
+     "sheet": "Census",
+     "row": "Kilcarrow Fire Protection Limited",
+     "col": "FTE",
+     "version": 2,
+     "text": "58.6"
+    },
+    {
+     "label": "Complete census",
+     "value": "Version 2 of 19 October 2026 is complete",
+     "qa": "Q-12"
+    }
+   ],
+   "derived": [],
+   "pitfalls": [
+    "Heads 641 / 62; census v1 551.2"
+   ]
+  },
+  {
+   "id": 10,
+   "topic": "Documents",
+   "answer": "2.2 and 3.1 sent as the room's original files; 4.2 not sent because it is view only, with the route to obtain it (ask the vendor through the Q&A to release it)",
+   "unit": "Original PDF and XLSX files; view-only refusal",
+   "period": "Current versions at 9 November 2026",
+   "basis": "Original formats where download permitted under common access terms",
+   "sources": [
+    {
+     "index": "2.2",
+     "version": 1
+    },
+    {
+     "index": "3.1",
+     "version": 1
+    },
+    {
+     "index": "4.2",
+     "version": 1
+    }
+   ],
+   "facts": [
+    {
+     "label": "2.2 original file",
+     "value": "2.2-v1-audited-consolidated-financial-statements-fy2026.pdf",
+     "file": "2.2-v1-audited-consolidated-financial-statements-fy2026.pdf",
+     "index": "2.2",
+     "version": 1
+    },
+    {
+     "label": "3.1 original file",
+     "value": "3.1-v1-top-customer-revenue-schedule-fy2026-and-six-months-to-30-september-20.xlsx",
+     "file": "3.1-v1-top-customer-revenue-schedule-fy2026-and-six-months-to-30-september-20.xlsx",
+     "index": "3.1",
+     "version": 1
+    },
+    {
+     "label": "Release route",
+     "value": "ask the vendor through the Q&A module to release it",
+     "doc": "4.2",
+     "version": 1
+    }
+   ],
+   "derived": [],
+   "pitfalls": [
+    "A copy, export or substantial extract of 4.2 anywhere in the deliverables"
+   ],
+   "rubric": {
+    "required": [
+     "Send original 2.2 PDF and 3.1 XLSX",
+     "Do not send 4.2: view only",
+     "Ask vendor through Q&A for release"
+    ],
+    "reject": [
+     "Copy, export or substantial extract of 4.2"
+    ]
+   }
+  }
+ ],
+ "derivable_only": [
+  "68,020",
+  "9,260",
+  "20.8",
+  "14.3",
+  "16,930",
+  "27.3",
+  "543"
+ ],
+ "_canary": "akwcanary-0c2d7f246087afd4"
+}

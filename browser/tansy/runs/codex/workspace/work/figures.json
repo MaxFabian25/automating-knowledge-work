@@ -1,0 +1,61 @@
+{
+  "ltm": {
+    "revenue": [
+      5420,
+      5550,
+      5220,
+      5580,
+      5770,
+      6100,
+      5510,
+      5660,
+      5740,
+      5810,
+      5680,
+      5980
+    ],
+    "ebitda": [
+      750,
+      782,
+      837,
+      805,
+      774,
+      792,
+      700,
+      730,
+      760,
+      780,
+      750,
+      800
+    ]
+  },
+  "growth": {
+    "current": 34380,
+    "prior": 28450,
+    "kilcarrow_current": 4020,
+    "kilcarrow_prior": 1880
+  },
+  "customers": {
+    "total": 62090,
+    "revenues": {
+      "Wendmoor Housing Group": 5960,
+      "Larchfold Facilities Management Ltd": 4310,
+      "Corrigal Retail Parks plc": 3240,
+      "Thornacre Care Homes Ltd": 2980,
+      "Glenvarra Hotels Ltd": 1410,
+      "Pemberwick Office Estates plc": 1820,
+      "Brindlecombe Schools Trust": 1640,
+      "Mossford Hospitals Ltd": 1390,
+      "Saxonhurst Hotels Ltd": 1260,
+      "Stanbury College Group": 1150,
+      "Dunstreath Retail Group plc": 3420
+    }
+  },
+  "claim": {
+    "eur": 642500,
+    "damages_eur": 598000,
+    "quantified_costs_eur": 44500,
+    "gbp_per_eur": 0.8455,
+    "provision_gbp000": 210
+  }
+}

@@ -1,0 +1,25 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=6.1-v1
+Documents
+6 Legal
+6.1 v1
+
+Document 6.1 | Version 1 (current)
+
+Litigation and claims schedule at 30 September 2026
+Type
+HTML
+Uploaded
+1 Oct 2026
+Pages
+1
+Folder
+6 Legal
+Download HTML
+6.1-v1-litigation-and-claims-schedule-at-30-september-2026.html
+
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+
+Matter	Damages claimed	Status
+Ardnacree Developments Ltd against Kilcarrow Fire Protection Limited	€598,000	Letter of claim received 12 March 2026; no proceedings issued
+
+Alleged defects in a fire-protection installation. Liability is disputed. This schedule records damages only; see the claimant’s letter at 6.2. No other material litigation is pending or threatened as at this schedule’s date.

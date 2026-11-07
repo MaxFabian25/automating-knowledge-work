@@ -1,0 +1,11 @@
+{
+ "5:exists": {"pass": true, "note": "Contingent consideration row: calculated by reference to Kilcarrow EBITDA for the year ending 31 March 2027 (2.2)."},
+ "5:amount": {"pass": true, "note": "Not disclosed, amount redacted; says the 4,120 accruals total is not the amount; no zero inferred."},
+ "5:date": {"pass": true, "note": "No payment date disclosed; says FY2027 is a measurement period, not a due date."},
+ "5:follow-up": {"pass": true, "note": "Names the SPA or a payment schedule, citing Q-09."},
+ "7:consent": {"pass": true, "note": "Advance consent of the Majority Lenders required; buyer outside the Skerrow exception, more than 50%."},
+ "7:remedy": {"pass": true, "note": "Each lender may cancel its commitment and declare its share of loans immediately due and payable."},
+ "7:period": {"pass": true, "note": "Within 30 days after the change of control."},
+ "7:source": {"pass": true, "note": "Cites 2.7 v1 and 2.11 v1."},
+ "10:restriction": {"pass": true, "note": "4.2 not downloaded because view only, citing the terms; notes vendor release via Q&A."}
+}

@@ -1,0 +1,15 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=5.1-v1 (file: https://akw-data-room.maxfabian31.workers.dev/files/5.1-v1-property-schedule.html)
+Downloaded 2026-11-07 via the viewer's Download button; original saved alongside as 5.1-v1.html. Text extract below.
+
+5.1 Property schedule (v1)
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+Project Tansy · Document 5.1 · Version 1
+Property schedule
+Vennacott Holdings Limited and subsidiaries · Uploaded 2026-10-01 · Strictly private and confidential
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+ | Occupier | Location | Annual rent (£000) | Lease expiry
+ | Vennacott Fire & Security Limited | Birmingham | 310 | 31 March 2031
+ | Vennacott Monitoring Limited | Nottingham | 145 | 30 September 2030
+ | Kilcarrow Fire Protection Limited | Cork | 95 | 31 March 2029
+ | Total | | 550 | 
+Rents exclude VAT and service charges; the Cork rent is translated to GBP for this schedule. The Nottingham lease has a tenant break on 30 September 2028, subject to six months’ notice.

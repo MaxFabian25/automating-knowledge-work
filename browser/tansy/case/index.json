@@ -1,0 +1,259 @@
+{
+  "case_id": "pub-tansy",
+  "codename": "Project Tansy",
+  "room_title": "Project Tansy data room",
+  "company": "Vennacott Holdings Limited and subsidiaries",
+  "banner": "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+  "terms_version": "Tansy VDR terms v1.0, 1 October 2026",
+  "workbook_creator": "Vennacott finance team (fictional)",
+  "folders": [
+    {
+      "id": 1,
+      "name": "Corporate"
+    },
+    {
+      "id": 2,
+      "name": "Financial"
+    },
+    {
+      "id": 3,
+      "name": "Commercial"
+    },
+    {
+      "id": 4,
+      "name": "People"
+    },
+    {
+      "id": 5,
+      "name": "Property"
+    },
+    {
+      "id": 6,
+      "name": "Legal"
+    },
+    {
+      "id": 7,
+      "name": "Operations"
+    }
+  ],
+  "documents": [
+    {
+      "index": "1.1",
+      "title": "Group structure and company information",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "1.2",
+      "title": "Management presentation, June 2026",
+      "type": "PDF",
+      "date": "2026-10-01"
+    },
+    {
+      "index": "1.3",
+      "title": "Board minutes extract: FY2027 budget approval, 26 March 2026",
+      "type": "PDF",
+      "date": "2026-10-01"
+    },
+    {
+      "index": "1.4",
+      "title": "Register of members at 30 September 2026",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "view_only": true,
+      "pages": 1
+    },
+    {
+      "index": "2.1",
+      "title": "Audited consolidated financial statements FY2025",
+      "type": "PDF",
+      "date": "2026-10-01"
+    },
+    {
+      "index": "2.2",
+      "title": "Audited consolidated financial statements FY2026",
+      "type": "PDF",
+      "date": "2026-10-01"
+    },
+    {
+      "index": "2.3",
+      "title": "Monthly management accounts FY2026, April 2025 to March 2026",
+      "type": "XLSX",
+      "date": "2026-10-01"
+    },
+    {
+      "index": "2.4",
+      "title": "Monthly management accounts FY2027, April to September 2026",
+      "type": "XLSX",
+      "date": "2026-10-23"
+    },
+    {
+      "index": "2.5",
+      "title": "EBITDA bridge FY2026",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "2.6",
+      "title": "Reconciliation FY2026: management accounts to audited",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "2.7",
+      "title": "Senior facilities summary",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "2.8",
+      "title": "Compliance certificate, test date 30 September 2026",
+      "type": "PDF",
+      "date": "2026-10-28"
+    },
+    {
+      "index": "2.9",
+      "title": "Budget FY2027",
+      "type": "XLSX",
+      "date": "2026-10-01"
+    },
+    {
+      "index": "2.10",
+      "title": "Aged debtors at 30 September 2026",
+      "type": "XLSX",
+      "date": "2026-10-01"
+    },
+    {
+      "index": "2.11",
+      "title": "Amendment letter to the senior facilities agreement, 12 August 2026",
+      "type": "PDF",
+      "date": "2026-10-22"
+    },
+    {
+      "index": "3.1",
+      "title": "Top-customer revenue schedule, FY2026 and six months to 30 September 2026",
+      "type": "XLSX",
+      "date": "2026-10-01"
+    },
+    {
+      "index": "3.2",
+      "title": "Contract summary: Wendmoor Housing Group",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "3.3",
+      "title": "Contract summary: Larchfold Facilities Management Ltd",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "3.4",
+      "title": "Contract summary: Corrigal Retail Parks plc",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "3.5",
+      "title": "Contract summary: Thornacre Care Homes Ltd",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "3.6",
+      "title": "Maintenance contract base and renewal rates",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "3.7",
+      "title": "Monitoring connections and service levels",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "4.1",
+      "title": "Employee census at 30 September 2026",
+      "type": "XLSX",
+      "date": "2026-10-12",
+      "version": 1,
+      "status": "superseded",
+      "superseded_by": "4.1-v2"
+    },
+    {
+      "index": "4.1",
+      "title": "Employee census at 30 September 2026",
+      "type": "XLSX",
+      "date": "2026-10-19",
+      "version": 2
+    },
+    {
+      "index": "4.2",
+      "title": "Senior management service agreements: summary",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "view_only": true,
+      "pages": 1
+    },
+    {
+      "index": "4.3",
+      "title": "Pension arrangements: defined contribution schemes",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "5.1",
+      "title": "Property schedule",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "6.1",
+      "title": "Litigation and claims schedule at 30 September 2026",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "6.2",
+      "title": "Letter of claim from Ardnacree Developments Ltd, 12 March 2026",
+      "type": "PDF",
+      "date": "2026-10-01"
+    },
+    {
+      "index": "6.3",
+      "title": "Insurance schedule",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "7.1",
+      "title": "Certifications and accreditations",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    },
+    {
+      "index": "7.2",
+      "title": "Health and safety record FY2024 to FY2026",
+      "type": "HTML",
+      "date": "2026-10-01",
+      "pages": 1
+    }
+  ],
+  "deployment_name": "akw-data-room",
+  "deployment_config": "wrangler.pub-tansy.jsonc"
+}

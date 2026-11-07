@@ -1,0 +1,47 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=2.4-v1 (file: https://akw-data-room.maxfabian31.workers.dev/files/2.4-v1-monthly-management-accounts-fy2027-april-to-september-2026.xlsx)
+Downloaded 2026-11-07 via the viewer's Download button; original saved alongside as 2.4-v1.xlsx. Text extract below.
+
+--- sheet Notes A1:A8
+A1='Vennacott Holdings Limited: basis and notes'
+A2='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A4='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='Financial year ends on 31 March. FY2026 is April 2025 to March 2026; H1 FY2027 is April to September 2026. Unaudited monthly management accounts, before audit adjustments.'
+A6='Revenue by company is GBP-translated revenue included in consolidated management revenue, after eliminations. Kilcarrow is included only from acquisition on 1 July 2025.'
+A7='Revenue by company reconciles to the P&L in this workbook. The revenue-by-stream analysis for FY2026 is in document 2.3. Costs are positive amounts.'
+A8='Organic revenue excludes, from both the current and the comparative period, the revenue of any business acquired in the 24 months before the end of the current period.'
+--- sheet P&L A1:I20
+A1='P&L - h1fy2027'
+A2='GBP thousands, management accounts basis; costs positive'
+A3='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='GBP thousands'  B5='Apr-26'  C5='May-26'  D5='Jun-26'  E5='Jul-26'  F5='Aug-26'  G5='Sep-26'  H5='H1 FY2027'  I5='H1 FY2026'
+A6='Total revenue'  B6=5510  C6=5660  D6=5740  E6=5810  F6=5680  G6=5980  H6=34380  I6=28450
+A7='Direct labour'  B7=1984  C7=2038  D7=2066  E7=2092  F7=2045  G7=2153  H7=12378  I7=10242
+A8='Materials'  B8=937  C8=962  D8=976  E8=988  F8=966  G8=1017  H8=5846  I8=4837
+A9='Subcontractors'  B9=441  C9=453  D9=459  E9=465  F9=454  G9=478  H9=2750  I9=2276
+A10='Cost of sales'  B10=3362  C10=3453  D10=3501  E10=3545  F10=3465  G10=3648  H10=20974  I10=17355
+A11='Gross profit'  B11=2148  C11=2207  D11=2239  E11=2265  F11=2215  G11=2332  H11=13406  I11=11095
+A12='Central staff and administration'  B12=1211  C12=1233  D12=1232  E12=1235  F12=1221  G12=1274  H12=7406  I12=6162
+A13='Property'  B13=138  C13=142  D13=144  E13=145  F13=142  G13=150  H13=861  I13=712
+A14='Systems'  B14=99  C14=102  D14=103  E14=105  F14=102  G14=108  H14=619  I14=511
+A15='Overheads'  B15=1448  C15=1477  D15=1479  E15=1485  F15=1465  G15=1532  H15=8886  I15=7385
+A16='EBITDA before exceptional items'  B16=700  C16=730  D16=760  E16=780  F16=750  G16=800  H16=4520  I16=3710
+A17='Depreciation'  B17=167  C17=174  D17=187  E17=180  F17=173  G17=179  H17=1060  I17=937
+A18='Amortisation'  B18=45  C18=47  D18=51  E18=49  F18=47  G18=51  H18=290  I18=202
+A19='Exceptional items'  B19=0  C19=0  D19=0  E19=0  F19=0  G19=0  H19=0  I19=170
+A20='Operating profit'  B20=488  C20=509  D20=522  E20=551  F20=530  G20=570  H20=3170  I20=2401
+--- sheet Revenue by company A1:I9
+A1='Revenue by company - h1fy2027'
+A2='GBP thousands, management accounts basis; costs positive'
+A3='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='GBP thousands'  B5='Apr-26'  C5='May-26'  D5='Jun-26'  E5='Jul-26'  F5='Aug-26'  G5='Sep-26'  H5='H1 FY2027'  I5='H1 FY2026'
+A6='Vennacott Fire & Security Limited'  B6=4298  C6=4415  D6=4433  E6=4537  F6=4426  G6=4701  H6=26810  I6=23323
+A7='Vennacott Monitoring Limited'  B7=562  C7=585  D7=627  E7=603  F7=579  G7=594  H7=3550  I7=3247
+A8='Kilcarrow Fire Protection Limited'  B8=650  C8=660  D8=680  E8=670  F8=675  G8=685  H8=4020  I8=1880
+A9='Total revenue'  B9=5510  C9=5660  D9=5740  E9=5810  F9=5680  G9=5980  H9=34380  I9=28450
+--- sheet KPIs A1:C7
+A1='KPIs'
+A2='GBP thousands, management accounts basis'
+A3='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='Measure'  B5='31 March 2026'  C5='30 September 2026'
+A6='Installation order book (contracted, not delivered)'  B6=15280  C6=16940
+A7='Monitoring connections'  B7=27100  C7=28400

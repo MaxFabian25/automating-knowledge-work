@@ -1,0 +1,48 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=2.1-v1 (file: https://akw-data-room.maxfabian31.workers.dev/files/2.1-v1-audited-consolidated-financial-statements-fy2025.pdf)
+Downloaded 2026-11-07 via the viewer's Download button; original saved alongside as 2.1-v1.pdf. Text extract below.
+
+                 Made-up data room for testing agents. Every company, person and figure here is fictional.
+
+Project Tansy · Document 2.1 · Version 1
+
+Audited consolidated financial statements FY2025
+Vennacott Holdings Limited and subsidiaries · Uploaded 2026-10-01 · Strictly private and confidential
+
+
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+
+Annual report and consolidated financial statements
+
+Year ended 31 March 2025. GBP thousands unless otherwise stated. Prepared under FRS 102. The
+following financial statements and notes are extracts from the made-up annual report.
+
+Independent auditor’s report
+
+In our opinion the consolidated financial statements give a true and fair view of the group’s affairs and profit
+for the year in accordance with UK Generally Accepted Accounting Practice. Haddon Strete LLP, statutory
+auditor. 18 July 2025.
+
+Consolidated profit and loss account
+ GBP thousands                                                                                                2025
+
+ Revenue                                                                                                     52,400
+ Cost of sales                                                                                               33,100
+
+ Gross profit                                                                                                19,300
+ Administrative expenses                                                                                     14,340
+
+ Operating profit                                                                                             4,960
+
+ Interest payable                                                                                             1,100
+ Profit before tax                                                                                            3,860
+
+ Taxation                                                                                                      965
+
+ Profit for the year                                                                                          2,895
+
+
+Accounting policies
+
+Installation revenue is recognised by stage of completion. Maintenance and monitoring revenue is
+recognised over the service period. These statements contain the figures as first reported for FY2025.
+

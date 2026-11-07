@@ -1,0 +1,30 @@
+{
+  "2.3-v1": {
+    "P&L!H6:M6 revenue Oct-25..Mar-26": [5420, 5550, 5220, 5580, 5770, 6100],
+    "P&L!H16:M16 EBITDA bei Oct-25..Mar-26": [750, 782, 837, 805, 774, 792],
+    "P&L!N6 FY2026 revenue": 62090,
+    "P&L!N16 FY2026 EBITDA bei": 8450
+  },
+  "2.4-v1": {
+    "P&L!B6:G6 revenue Apr-26..Sep-26": [5510, 5660, 5740, 5810, 5680, 5980],
+    "P&L!B16:G16 EBITDA bei Apr-26..Sep-26": [700, 730, 760, 780, 750, 800],
+    "P&L!H6 revenue H1 FY2027": 34380,
+    "P&L!I6 revenue H1 FY2026": 28450,
+    "Revenue by company!H8 Kilcarrow H1 FY2027": 4020,
+    "Revenue by company!I8 Kilcarrow H1 FY2026": 1880
+  },
+  "2.8-v1": {"net debt": 26640, "covenant EBITDA LTM": 9380, "leverage reported": 2.84, "max": 3.25},
+  "3.1-v1": {
+    "Wendmoor Housing Group": 5960,
+    "Larchfold Facilities Management Ltd": 4310,
+    "Corrigal Retail Parks plc": 3240,
+    "Thornacre Care Homes Ltd": 2980,
+    "Total revenue (management basis) B18": 62090
+  },
+  "Q-06": {"Dunstreath Retail Group plc FY2026 revenue": 3420},
+  "6.2-v1": {"Total quantified claim EUR": 642500, "Damages EUR": 598000, "Quantified costs EUR": 44500},
+  "2.2-v1": {"closing rate GBP per EUR 31 Mar 2026": 0.8455, "Ardnacree provision": 210,
+             "revenue FY2026": 61800, "revenue FY2025 restated": 51650,
+             "operating profit FY2026": 5630, "operating profit FY2025 restated": 4550},
+  "4.1-v2": {"FTE VF&S": 476.3, "FTE Monitoring": 74.9, "FTE Kilcarrow": 58.6, "FTE Total": 609.8}
+}

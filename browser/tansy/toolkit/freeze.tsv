@@ -1,0 +1,22 @@
+frozen	2026-11-07T06:06:43+01:00
+stopping rule	Each stage (producer, review, resolve) runs once, unattended, with a 45-minute limit; the producer finishes when check_answers.py passes or it records why it cannot. No human follow-ups, no retries except infrastructure failures, which are disclosed.
+served site	https://akw-data-room.maxfabian31.workers.dev, Worker version 556cfc73-e405-492d-956d-6252d8a5bc27, bytes in served-manifest.tsv
+sha256	e10cd789d392d37f78b4f519816879f0c316bf727bf5c6cf772e22d5cca8f428	runs/browser-tansy/brief.md
+sha256	869d268831b841b5b4f1e00e265ef0719e49e308d87e330fb6e8239edade9aa2	runs/browser-tansy/case.json
+sha256	92c164b6ea91e8d4d5b4bf1d1dc50f89542c3a542c70f6e22ea8025c2dbe7903	runs/browser-tansy/served-manifest.tsv
+sha256	af4fe04bd26792567388373732493503c57561460bffce4ce71d6ee26c8854a0	runs/browser-kit/run.sh
+sha256	1644b2cd8054b3b28f85cfd5243a938081328e0f7708789330f9ce592506ab99	runs/browser-kit/sandbox.sh
+sha256	cfcee9fb85e9cc7a3e16896cdf4840909eda80f344296ec389e89032a6046fb9	runs/browser-kit/test_sandbox.sh
+sha256	279e8722910e6e9d7170bfc94f45afd7fb1bdf8d361c358991a4142465534df9	runs/browser-kit/toolkit/AGENTS.md
+sha256	336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49	runs/browser-kit/toolkit/CLAUDE.md
+sha256	082a24956759fce92b42972f62039dac712b09d2ad339e97c36ab9ebef916661	runs/browser-kit/toolkit/check_answers.py
+sha256	bc8193cb249db9487bf8464c0ae077ba7faca4378f32c1a5e8ddbb2eddadf176	runs/browser-kit/review/AGENTS.md
+sha256	336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49	runs/browser-kit/review/CLAUDE.md
+sha256	fc83adc70ec24e0126c3ca6de1da11a661ef3cb49cf061b07931374f250e622d	runs/browser-kit/score.py
+sha256	a9b397b48329205141b7dc6c2fac02ddbf76bf2363c9bb3fd5fc8b7fe06f6ac6	runs/browser-kit/test_score.py
+sha256	cdad799657aa4ccbc20198f8f844846bcd556603f9ddd4111b7d6524762a00a5	data-room/cases/pub-tansy/score-key.json
+sha256	147d62fa08337d1c1320a8c42a964751c7932d27e13c14b1c97cb12895494f63	data-room/cases/pub-tansy/answer-key.json
+sha256	af64bd944c4ed08829c5f2c0130de567721d9c36ea9a4ddcec93b2a25699220e	data-room/cases/pub-tansy/design.md
+sha256	a70cd7a141d494ccaa463a8b3160bfd83dab75205f6fe197fe903110648ea226	data-room/cases/pub-tansy/request-list.md
+sha256	cc2aab1ef353a166010c64b1478ebe1eff801b15efa3504b5604af1a3f3b1f63	data-room/build.py
+sha256	5de98883be79cc4d9d4bfb50def5dd4c69e555b63907bbc95f3a601f268604c3	data-room/check.py

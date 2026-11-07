@@ -1,0 +1,4 @@
+Review complete: all 31 rows agree with the current sources. Both delivered files match the current originals exactly. The consideration disclosure gaps and view-only restriction are correctly reported.
+
+- [Findings CSV](/tmp/akw-runs/final-claude-review/review/findings.csv)
+- [Review summary](/tmp/akw-runs/final-claude-review/review/review.md)

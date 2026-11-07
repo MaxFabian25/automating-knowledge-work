@@ -1,0 +1,49 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=2.3-v1 (file: https://akw-data-room.maxfabian31.workers.dev/files/2.3-v1-monthly-management-accounts-fy2026-april-2025-to-march-2026.xlsx)
+Downloaded 2026-11-07 via the viewer's Download button; original saved alongside as 2.3-v1.xlsx. Text extract below.
+
+--- sheet Notes A1:A7
+A1='Vennacott Holdings Limited: basis and notes'
+A2='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A4='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='Financial year ends on 31 March. FY2026 is April 2025 to March 2026; H1 FY2027 is April to September 2026. Unaudited monthly management accounts, before audit adjustments.'
+A6='Revenue by company is GBP-translated revenue included in consolidated management revenue, after eliminations. Kilcarrow is included only from acquisition on 1 July 2025.'
+A7='Revenue by stream is a separate analysis of the same consolidated revenue. Costs are positive amounts.'
+--- sheet P&L A1:N20
+A1='P&L - fy2026'
+A2='GBP thousands, management accounts basis; costs positive'
+A3='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='GBP thousands'  B5='Apr-25'  C5='May-25'  D5='Jun-25'  E5='Jul-25'  F5='Aug-25'  G5='Sep-25'  H5='Oct-25'  I5='Nov-25'  J5='Dec-25'  K5='Jan-26'  L5='Feb-26'  M5='Mar-26'  N5='FY2026'
+A6='Total revenue'  B6=4300  C6=4350  D6=4400  E6=5030  F6=5120  G6=5250  H6=5420  I6=5550  J6=5220  K6=5580  L6=5770  M6=6100  N6=62090
+A7='Direct labour'  B7=1497  C7=1457  D7=1398  E7=1926  F7=1978  G7=1986  H7=1951  I7=1998  J7=1879  K7=2009  L7=2077  M7=2196  N7=22352
+A8='Materials'  B8=745  C8=768  D8=797  E8=825  F8=835  G8=867  H8=921  I8=944  J8=887  K8=949  L8=981  M8=1037  N8=10556
+A9='Subcontractors'  B9=350  C9=362  D9=375  E9=388  F9=393  G9=408  H9=434  I9=444  J9=418  K9=446  L9=462  M9=488  N9=4968
+A10='Cost of sales'  B10=2592  C10=2587  D10=2570  E10=3139  F10=3206  G10=3261  H10=3306  I10=3386  J10=3184  K10=3404  L10=3520  M10=3721  N10=37876
+A11='Gross profit'  B11=1708  C11=1763  D11=1830  E11=1891  F11=1914  G11=1989  H11=2114  I11=2164  J11=2036  K11=2176  L11=2250  M11=2379  N11=24214
+A12='Central staff and administration'  B12=989  C12=1009  D12=1039  E12=1033  F12=1033  G12=1059  H12=1130  I12=1143  J12=975  K12=1131  L12=1228  M12=1325  N12=13094
+A13='Property'  B13=110  C13=113  D13=117  E13=121  F13=123  G13=128  H13=136  I13=139  J13=130  K13=140  L13=144  M13=152  N13=1553
+A14='Systems'  B14=79  C14=81  D14=84  E14=87  F14=88  G14=92  H14=98  I14=100  J14=94  K14=100  L14=104  M14=110  N14=1117
+A15='Overheads'  B15=1178  C15=1203  D15=1240  E15=1241  F15=1244  G15=1279  H15=1364  I15=1382  J15=1199  K15=1371  L15=1476  M15=1587  N15=15764
+A16='EBITDA before exceptional items'  B16=530  C16=560  D16=590  E16=650  F16=670  G16=710  H16=750  I16=782  J16=837  K16=805  L16=774  M16=792  N16=8450
+A17='Depreciation'  B17=148  C17=155  D17=166  E17=159  F17=153  G17=156  H17=162  I17=166  J17=144  K17=151  L17=155  M17=165  N17=1880
+A18='Amortisation'  B18=32  C18=33  D18=36  E18=34  F18=33  G18=34  H18=35  I18=36  J18=31  K18=33  L18=33  M18=40  N18=410
+A19='Exceptional items'  B19=0  C19=0  D19=0  E19=170  F19=0  G19=0  H19=0  I19=0  J19=0  K19=0  L19=0  M19=0  N19=170
+A20='Operating profit'  B20=350  C20=372  D20=388  E20=287  F20=484  G20=520  H20=553  I20=580  J20=662  K20=621  L20=586  M20=587  N20=5990
+--- sheet Revenue by company A1:N9
+A1='Revenue by company - fy2026'
+A2='GBP thousands, management accounts basis; costs positive'
+A3='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='GBP thousands'  B5='Apr-25'  C5='May-25'  D5='Jun-25'  E5='Jul-25'  F5='Aug-25'  G5='Sep-25'  H5='Oct-25'  I5='Nov-25'  J5='Dec-25'  K5='Jan-26'  L5='Feb-26'  M5='Mar-26'  N5='FY2026'
+A6='Vennacott Fire & Security Limited'  B6=3774  C6=3816  D6=3860  E6=3875  F6=3947  G6=4051  H6=4207  I6=4306  J6=4102  K6=4400  L6=4569  M6=4853  N6=49760
+A7='Vennacott Monitoring Limited'  B7=526  C7=534  D7=540  E7=545  F7=548  G7=554  H7=563  I7=574  J7=498  K7=525  L7=536  M7=557  N7=6500
+A8='Kilcarrow Fire Protection Limited'  B8=0  C8=0  D8=0  E8=610  F8=625  G8=645  H8=650  I8=670  J8=620  K8=655  L8=665  M8=690  N8=5830
+A9='Total revenue'  B9=4300  C9=4350  D9=4400  E9=5030  F9=5120  G9=5250  H9=5420  I9=5550  J9=5220  K9=5580  L9=5770  M9=6100  N9=62090
+--- sheet Revenue by stream A1:N10
+A1='Revenue by stream - fy2026'
+A2='GBP thousands, management accounts basis; costs positive'
+A3='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='GBP thousands'  B5='Apr-25'  C5='May-25'  D5='Jun-25'  E5='Jul-25'  F5='Aug-25'  G5='Sep-25'  H5='Oct-25'  I5='Nov-25'  J5='Dec-25'  K5='Jan-26'  L5='Feb-26'  M5='Mar-26'  N5='FY2026'
+A6='Installation'  B6=1791  C6=1776  D6=1761  E6=2273  F6=2303  G6=2330  H6=2331  I6=2386  J6=2245  K6=2399  L6=2481  M6=2623  N6=26699
+A7='Maintenance'  B7=1314  C7=1356  D7=1407  E7=1455  F7=1473  G7=1530  H7=1626  I7=1665  J7=1566  K7=1674  L7=1731  M7=1830  N7=18627
+A8='Remedial work'  B8=669  C8=684  D8=692  E8=757  F8=796  G8=836  H8=900  I8=925  J8=911  K8=982  L8=1022  M8=1090  N8=10264
+A9='Alarm monitoring'  B9=526  C9=534  D9=540  E9=545  F9=548  G9=554  H9=563  I9=574  J9=498  K9=525  L9=536  M9=557  N9=6500
+A10='Total revenue'  B10=4300  C10=4350  D10=4400  E10=5030  F10=5120  G10=5250  H10=5420  I10=5550  J10=5220  K10=5580  L10=5770  M10=6100  N10=62090

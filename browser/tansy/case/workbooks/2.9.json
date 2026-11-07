@@ -1,0 +1,113 @@
+{
+  "_note": "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+  "sheets": [
+    {
+      "name": "Notes",
+      "kind": "notes",
+      "title": "Vennacott Holdings Limited: basis and notes",
+      "lines": [
+        "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+        "Approved by the board on 26 March 2026; year ending 31 March 2027. Contract price indexation and additional engineers; no further acquisitions. Capex budget £2,400k."
+      ]
+    },
+    {
+      "name": "P&L",
+      "title": "P&L - budget",
+      "kind": "monthly",
+      "units": "GBP thousands, management accounts basis; costs positive",
+      "group": "budget",
+      "months": [
+        "Apr-26",
+        "May-26",
+        "Jun-26",
+        "Jul-26",
+        "Aug-26",
+        "Sep-26",
+        "Oct-26",
+        "Nov-26",
+        "Dec-26",
+        "Jan-27",
+        "Feb-27",
+        "Mar-27"
+      ],
+      "total_label": "FY2027 budget",
+      "rows": [
+        [
+          "total",
+          "Total revenue",
+          "revenue"
+        ],
+        [
+          "line",
+          "Direct labour",
+          "labour"
+        ],
+        [
+          "line",
+          "Materials",
+          "materials"
+        ],
+        [
+          "line",
+          "Subcontractors",
+          "subcontract"
+        ],
+        [
+          "total",
+          "Cost of sales",
+          "cos"
+        ],
+        [
+          "total",
+          "Gross profit",
+          "gross"
+        ],
+        [
+          "line",
+          "Central staff and administration",
+          "central"
+        ],
+        [
+          "line",
+          "Property",
+          "property"
+        ],
+        [
+          "line",
+          "Systems",
+          "systems"
+        ],
+        [
+          "total",
+          "Overheads",
+          "overheads"
+        ],
+        [
+          "total",
+          "EBITDA before exceptional items",
+          "ebitda"
+        ],
+        [
+          "line",
+          "Depreciation",
+          "depreciation"
+        ],
+        [
+          "line",
+          "Amortisation",
+          "amortisation"
+        ],
+        [
+          "line",
+          "Exceptional items",
+          "exceptional"
+        ],
+        [
+          "total",
+          "Operating profit",
+          "op"
+        ]
+      ]
+    }
+  ]
+}

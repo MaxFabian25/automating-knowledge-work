@@ -1,0 +1,8 @@
+Completed: [answers.csv](/tmp/akw-runs/final-codex/deliverables/answers.csv) contains 30 rows. All cited sources were rechecked, and validation passes.
+
+Original files:
+
+- [FY2026 audited statements](/tmp/akw-runs/final-codex/deliverables/files/2.2-v1-audited-consolidated-financial-statements-fy2026.pdf)
+- [Top-customer schedule](/tmp/akw-runs/final-codex/deliverables/files/3.1-v1-top-customer-revenue-schedule-fy2026-and-six-months-to-30-september-2026.xlsx)
+
+The table records document 4.2’s view-only restriction and the unavailable Kilcarrow consideration details.

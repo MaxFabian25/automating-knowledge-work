@@ -1,0 +1,38 @@
+{
+ "5:exists": {
+  "pass": true,
+  "note": "Contingent consideration rows: earn-out measured on Kilcarrow EBITDA for the year ending 31 March 2027 (2.2 note 4; 1.2)."
+ },
+ "5:amount": {
+  "pass": true,
+  "note": "Not available, amount redacted in 2.2; says it sits within accruals of 4,120 and that 4,120 is not its amount; no zero or estimate given. Deferred (non-contingent) consideration: says no document states whether any is outstanding, and cites the completion cash of 8,280."
+ },
+ "5:date": {
+  "pass": true,
+  "note": "Payment date not stated for either; only the FY2027 measurement period is disclosed; invents none."
+ },
+ "5:follow-up": {
+  "pass": true,
+  "note": "Names the Kilcarrow SPA (Q-09, 'Awaiting documents') and its payment and earn-out terms as missing."
+ },
+ "7:consent": {
+  "pass": true,
+  "note": "Yes: the buyer, not Skerrow-advised funds, taking more than 50% of voting shares is a change of control; Majority Lenders' consent in advance."
+ },
+ "7:remedy": {
+  "pass": true,
+  "note": "Each lender may cancel its commitment and declare its share of all loans immediately due and payable."
+ },
+ "7:period": {
+  "pass": true,
+  "note": "By notice within 30 days after the change of control."
+ },
+ "7:source": {
+  "pass": true,
+  "note": "Relies on 2.7 and says 2.11 leaves the change-of-control clause unchanged; notes the full facilities agreement isn't in the room."
+ },
+ "10:restriction": {
+  "pass": true,
+  "note": "4.2 not supplied because it is view only under terms para 4; Q&A route noted, no request raised."
+ }
+}

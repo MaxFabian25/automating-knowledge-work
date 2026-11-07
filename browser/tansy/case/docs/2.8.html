@@ -1,0 +1,12 @@
+<p class="doc-meta">Made-up data room for testing agents. Every company, person and figure here is fictional.</p>
+<p>To Calvemont Bank plc as agent. Delivered 28 October 2026 by Vennacott Holdings Limited. Test date: 30 September 2026.</p>
+<table><thead><tr><th scope="col">Measure</th><th scope="col">Reported</th><th scope="col">Requirement</th></tr></thead><tbody>
+<tr><th scope="row">Net debt (£000)</th><td class="num">{{covenants.net_debt}}</td><td class="num"></td></tr>
+<tr><th scope="row">Consolidated EBITDA as defined, twelve months to 30 September 2026 (£000)</th><td class="num">{{covenants.ebitda}}</td><td class="num"></td></tr>
+<tr><th scope="row">Leverage</th><td class="num">{{covenants.reported|ratio}}</td><td class="num">Maximum {{covenants.max|ratio}}</td></tr>
+<tr><th scope="row">Interest cover</th><td class="num">{{covenants.cover|ratio}}</td><td class="num">Minimum {{covenants.min_cover|ratio}}</td></tr>
+</tbody></table>
+<p>Consolidated EBITDA as defined adds back share-based payment charges and other items permitted by the facility agreement.</p>
+<p>Net debt at the test date comprises drawn term loan £22,000k plus drawn RCF £6,500k less cash £1,860k, totalling £26,640k. The RCF commitment is £8,000k.</p>
+<p>We certify compliance with the financial covenants under the facilities agreement as amended. Signed for Vennacott Holdings Limited by the chief financial officer.</p>
+

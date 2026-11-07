@@ -1,0 +1,36 @@
+{
+  "_note": "2026-11-07: exact public evidence revisions authorised after independent validation. The frozen answer key, answers and values remain unchanged. Text mappings affect evidence matching only; file mapping corrects the truncated original filename.",
+  "revisions": [
+    {
+      "request": 5,
+      "original": {
+        "label": "Estimate location",
+        "value": "included within accruals of £4,120k in total and is not disclosed separately",
+        "doc": "2.2",
+        "version": 1
+      },
+      "replacement": "included within accruals of £4,120k in total; contingent consideration amount: [redacted for the data room]"
+    },
+    {
+      "request": 7,
+      "original": {
+        "label": "Lender rights",
+        "value": "each lender may, by notice given within 30 days, cancel its commitment and declare its share of all loans immediately due and payable",
+        "doc": "2.7",
+        "version": 1
+      },
+      "replacement": "each lender may, by notice given within 30 days after the change of control, cancel its commitment and declare its share of all loans immediately due and payable"
+    },
+    {
+      "request": 10,
+      "original": {
+        "label": "3.1 original file",
+        "value": "3.1-v1-top-customer-revenue-schedule-fy2026-and-six-months-to-30-september-20.xlsx",
+        "file": "3.1-v1-top-customer-revenue-schedule-fy2026-and-six-months-to-30-september-20.xlsx",
+        "index": "3.1",
+        "version": 1
+      },
+      "replacement": "3.1-v1-top-customer-revenue-schedule-fy2026-and-six-months-to-30-september-2026.xlsx"
+    }
+  ]
+}

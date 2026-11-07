@@ -1,0 +1,47 @@
+{
+  "_note": "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+  "sheets": [
+    {
+      "name": "Notes",
+      "kind": "notes",
+      "title": "Vennacott Holdings Limited: basis and notes",
+      "lines": [
+        "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+        "Snapshot at 30 September 2026. Heads and FTE are separate measures; FTE is contracted hours divided by standard full-time hours. Agency workers excluded. Complete group perimeter, including Kilcarrow."
+      ]
+    },
+    {
+      "name": "Census",
+      "title": "Census",
+      "kind": "table",
+      "units": "Employees at 30 September 2026; FTE to one decimal",
+      "header": [
+        "Company",
+        "Headcount",
+        "FTE"
+      ],
+      "rows": [
+        [
+          "Vennacott Fire & Security Limited",
+          498,
+          476.3
+        ],
+        [
+          "Vennacott Monitoring Limited",
+          81,
+          74.9
+        ],
+        [
+          "Kilcarrow Fire Protection Limited",
+          62,
+          58.6
+        ],
+        [
+          "Total",
+          641,
+          609.8
+        ]
+      ]
+    }
+  ]
+}

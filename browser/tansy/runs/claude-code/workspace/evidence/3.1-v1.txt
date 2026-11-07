@@ -1,0 +1,27 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=3.1-v1 (file: https://akw-data-room.maxfabian31.workers.dev/files/3.1-v1-top-customer-revenue-schedule-fy2026-and-six-months-to-30-september-2026.xlsx)
+Downloaded 2026-11-07 via the viewer's Download button; original saved alongside as 3.1-v1.xlsx. Text extract below.
+
+--- sheet Notes A1:A6
+A1='Vennacott Holdings Limited: basis and notes'
+A2='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A4='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='Revenue per customer is the total across all group companies, contracts and project work, on the management accounts basis. The ten largest customers by H1 FY2027 revenue are listed. Customers that no longer trade with the group are not listed. Every other customer still trading with the group had less than 2.0% of group revenue in each period shown.'
+A6='FY2026: year ended 31 March 2026. H1 FY2027: six months ended 30 September 2026. Figures before audit adjustments; see 2.6.'
+--- sheet Top customers A1:C18
+A1='Top customers'
+A2='GBP thousands, management accounts basis'
+A3='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='Customer'  B5='FY2026'  C5='H1 FY2027'
+A6='Wendmoor Housing Group'  B6=5960  C6=3240
+A7='Larchfold Facilities Management Ltd'  B7=4310  C7=2380
+A8='Corrigal Retail Parks plc'  B8=3240  C8=1790
+A9='Thornacre Care Homes Ltd'  B9=2980  C9=1620
+A10='Glenvarra Hotels Ltd'  B10=1410  C10=1050
+A11='Pemberwick Office Estates plc'  B11=1820  C11=960
+A12='Brindlecombe Schools Trust'  B12=1640  C12=890
+A13='Mossford Hospitals Ltd'  B13=1390  C13=820
+A14='Saxonhurst Hotels Ltd'  B14=1260  C14=700
+A15='Stanbury College Group'  B15=1150  C15=650
+A16='Listed customers'  B16=25160  C16=14100
+A17='Other customers'  B17=36930  C17=20280
+A18='Total revenue (management basis)'  B18=62090  C18=34380

@@ -1,0 +1,28 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=2.9-v1 (file: https://akw-data-room.maxfabian31.workers.dev/files/2.9-v1-budget-fy2027.xlsx)
+Downloaded 2026-11-07 via the viewer's Download button; original saved alongside as 2.9-v1.xlsx. Text extract below.
+
+--- sheet Notes A1:A5
+A1='Vennacott Holdings Limited: basis and notes'
+A2='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A4='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='Approved by the board on 26 March 2026; year ending 31 March 2027. Contract price indexation and additional engineers; no further acquisitions. Capex budget £2,400k.'
+--- sheet P&L A1:N20
+A1='P&L - budget'
+A2='GBP thousands, management accounts basis; costs positive'
+A3='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='GBP thousands'  B5='Apr-26'  C5='May-26'  D5='Jun-26'  E5='Jul-26'  F5='Aug-26'  G5='Sep-26'  H5='Oct-26'  I5='Nov-26'  J5='Dec-26'  K5='Jan-27'  L5='Feb-27'  M5='Mar-27'  N5='FY2027 budget'
+A6='Total revenue'  B6=5605  C6=5841  D6=6254  E6=6018  F6=5782  G6=5900  H6=6136  I6=6254  J6=5428  K6=5723  L6=5841  M6=6018  N6=70800
+A7='Direct labour'  B7=2018  C7=2103  D7=2251  E7=2166  F7=2082  G7=2124  H7=2209  I7=2251  J7=1954  K7=2060  L7=2103  M7=2166  N7=25487
+A8='Materials'  B8=953  C8=993  D8=1063  E8=1023  F8=983  G8=1003  H8=1043  I8=1063  J8=923  K8=973  L8=993  M8=1023  N8=12036
+A9='Subcontractors'  B9=448  C9=467  D9=500  E9=481  F9=463  G9=472  H9=491  I9=500  J9=434  K9=458  L9=467  M9=481  N9=5662
+A10='Cost of sales'  B10=3419  C10=3563  D10=3814  E10=3670  F10=3528  G10=3599  H10=3743  I10=3814  J10=3311  K10=3491  L10=3563  M10=3670  N10=43185
+A11='Gross profit'  B11=2186  C11=2278  D11=2440  E11=2348  F11=2254  G11=2301  H11=2393  I11=2440  J11=2117  K11=2232  L11=2278  M11=2348  N11=27615
+A12='Central staff and administration'  B12=1138  C12=1186  D12=1270  E12=1223  F12=1172  G12=1197  H12=1246  I12=1270  J12=1101  K12=1162  L12=1186  M12=1221  N12=14372
+A13='Property'  B13=140  C13=146  D13=156  E13=150  F13=145  G13=148  H13=153  I13=156  J13=136  K13=143  L13=146  M13=150  N13=1769
+A14='Systems'  B14=101  C14=105  D14=113  E14=108  F14=104  G14=106  H14=110  I14=113  J14=98  K14=103  L14=105  M14=108  N14=1274
+A15='Overheads'  B15=1379  C15=1437  D15=1539  E15=1481  F15=1421  G15=1451  H15=1509  I15=1539  J15=1335  K15=1408  L15=1437  M15=1479  N15=17415
+A16='EBITDA before exceptional items'  B16=807  C16=841  D16=901  E16=867  F16=833  G16=850  H16=884  I16=901  J16=782  K16=824  L16=841  M16=869  N16=10200
+A17='Depreciation'  B17=174  C17=181  D17=194  E17=187  F17=179  G17=183  H17=190  I17=194  J17=168  K17=177  L17=181  M17=192  N17=2200
+A18='Amortisation'  B18=45  C18=47  D18=51  E18=49  F18=47  G18=48  H18=50  I18=51  J18=44  K18=46  L18=47  M18=55  N18=580
+A19='Exceptional items'  B19=0  C19=0  D19=0  E19=0  F19=0  G19=0  H19=0  I19=0  J19=0  K19=0  L19=0  M19=0  N19=0
+A20='Operating profit'  B20=588  C20=613  D20=656  E20=631  F20=607  G20=619  H20=644  I20=656  J20=570  K20=601  L20=613  M20=622  N20=7420

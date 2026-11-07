@@ -1,0 +1,10 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=3.7-v1 (file: https://akw-data-room.maxfabian31.workers.dev/files/3.7-v1-monitoring-connections-and-service-levels.html)
+Downloaded 2026-11-07 via the viewer's Download button; original saved alongside as 3.7-v1.html. Text extract below.
+
+3.7 Monitoring connections and service levels (v1)
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+Project Tansy · Document 3.7 · Version 1
+Monitoring connections and service levels
+Vennacott Holdings Limited and subsidiaries · Uploaded 2026-10-01 · Strictly private and confidential
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+At 30 September 2026 Vennacott Monitoring Limited monitored 28,400 connections. Availability was 99.95% over H1 FY2027, measured as available service minutes divided by scheduled minutes. A platform migration is planned for January 2027; dual running will precede cutover.

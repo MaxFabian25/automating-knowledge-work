@@ -1,0 +1,7 @@
+https://akw-data-room.maxfabian31.workers.dev/qa.html (entry data: https://akw-data-room.maxfabian31.workers.dev/data/qa.json)
+Retrieved 2026-11-07 via agent-browser session.
+
+Q-12 [People] status: Answered; asked 2026-10-20; answered 2026-10-22
+Question: Is census v2 complete?
+Answer: Census v1 left out Kilcarrow. Version 2 of 19 October 2026 is complete. Please use v2.
+Referenced documents: 4.1

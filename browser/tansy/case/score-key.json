@@ -1,0 +1,592 @@
+{
+ "case": "pub-tansy",
+ "dist": "browser/tansy/data-room",
+ "assertions": [
+  {
+   "request": 1,
+   "label": "LTM revenue",
+   "value": 68020,
+   "decimals": 0,
+   "sources": [
+    [
+     "2.3 v1",
+     "2.4 v1"
+    ]
+   ],
+   "match": [
+    [
+     "revenue",
+     "sales",
+     "turnover"
+    ]
+   ],
+   "exclude": [
+    "ebitda"
+   ]
+  },
+  {
+   "request": 1,
+   "label": "LTM EBITDA",
+   "value": 9260,
+   "decimals": 0,
+   "sources": [
+    [
+     "2.3 v1",
+     "2.4 v1"
+    ]
+   ],
+   "match": [
+    [
+     "ebitda"
+    ]
+   ],
+   "exclude": []
+  },
+  {
+   "request": 2,
+   "label": "Reported growth",
+   "value": 20.8,
+   "decimals": 1,
+   "sources": [
+    [
+     "2.4 v1"
+    ]
+   ],
+   "match": [
+    [
+     "report"
+    ]
+   ],
+   "exclude": [
+    "organic"
+   ]
+  },
+  {
+   "request": 2,
+   "label": "Organic growth",
+   "value": 14.3,
+   "decimals": 1,
+   "sources": [
+    [
+     "2.4 v1"
+    ]
+   ],
+   "match": [
+    [
+     "organic"
+    ]
+   ],
+   "exclude": []
+  },
+  {
+   "request": 3,
+   "label": "FY2026 revenue",
+   "value": 61800,
+   "decimals": 0,
+   "sources": [
+    [
+     "2.2 v1"
+    ]
+   ],
+   "match": [
+    [
+     "revenue",
+     "sales",
+     "turnover"
+    ],
+    [
+     "2026"
+    ]
+   ],
+   "exclude": [
+    "2025"
+   ]
+  },
+  {
+   "request": 3,
+   "label": "FY2026 operating profit",
+   "value": 5630,
+   "decimals": 0,
+   "sources": [
+    [
+     "2.2 v1"
+    ]
+   ],
+   "match": [
+    [
+     "operating"
+    ],
+    [
+     "2026"
+    ]
+   ],
+   "exclude": [
+    "2025"
+   ]
+  },
+  {
+   "request": 3,
+   "label": "FY2025 revenue, restated",
+   "value": 51650,
+   "decimals": 0,
+   "sources": [
+    [
+     "2.2 v1"
+    ]
+   ],
+   "match": [
+    [
+     "revenue",
+     "sales",
+     "turnover"
+    ],
+    [
+     "2025"
+    ]
+   ],
+   "exclude": [
+    "fy2026",
+    "2026 revenue"
+   ]
+  },
+  {
+   "request": 3,
+   "label": "FY2025 operating profit, restated",
+   "value": 4550,
+   "decimals": 0,
+   "sources": [
+    [
+     "2.2 v1"
+    ]
+   ],
+   "match": [
+    [
+     "operating"
+    ],
+    [
+     "2025"
+    ]
+   ],
+   "exclude": [
+    "fy2026",
+    "2026 operating"
+   ]
+  },
+  {
+   "request": 4,
+   "label": "Maximum leverage at 30 September 2026",
+   "value": 3.25,
+   "decimals": 2,
+   "sources": [
+    [
+     "2.11 v1"
+    ],
+    [
+     "2.8 v1"
+    ],
+    [
+     "Q-07"
+    ]
+   ],
+   "match": [
+    [
+     "max",
+     "permit",
+     "covenant",
+     "limit",
+     "threshold"
+    ]
+   ],
+   "exclude": [
+    "reported",
+    "actual"
+   ]
+  },
+  {
+   "request": 4,
+   "label": "Reported leverage",
+   "value": 2.84,
+   "decimals": 2,
+   "sources": [
+    [
+     "2.8 v1"
+    ]
+   ],
+   "match": [
+    [
+     "report",
+     "actual",
+     "certif"
+    ]
+   ],
+   "exclude": [
+    "max",
+    "permit",
+    "limit"
+   ]
+  },
+  {
+   "request": 6,
+   "label": "Wendmoor",
+   "value": 5960,
+   "decimals": 0,
+   "sources": [
+    [
+     "3.1 v1"
+    ]
+   ],
+   "match": [
+    [
+     "wendmoor"
+    ]
+   ],
+   "exclude": []
+  },
+  {
+   "request": 6,
+   "label": "Larchfold",
+   "value": 4310,
+   "decimals": 0,
+   "sources": [
+    [
+     "3.1 v1"
+    ]
+   ],
+   "match": [
+    [
+     "larchfold"
+    ]
+   ],
+   "exclude": []
+  },
+  {
+   "request": 6,
+   "label": "Corrigal",
+   "value": 3240,
+   "decimals": 0,
+   "sources": [
+    [
+     "3.1 v1"
+    ]
+   ],
+   "match": [
+    [
+     "corrigal"
+    ]
+   ],
+   "exclude": []
+  },
+  {
+   "request": 6,
+   "label": "Dunstreath",
+   "value": 3420,
+   "decimals": 0,
+   "sources": [
+    [
+     "1.2 v1"
+    ],
+    [
+     "Q-06"
+    ]
+   ],
+   "match": [
+    [
+     "dunstreath"
+    ]
+   ],
+   "exclude": []
+  },
+  {
+   "request": 6,
+   "label": "Combined share",
+   "value": 27.3,
+   "decimals": 1,
+   "sources": [
+    [
+     "3.1 v1"
+    ],
+    [
+     "2.3 v1"
+    ],
+    [
+     "1.2 v1"
+    ],
+    [
+     "Q-06"
+    ]
+   ],
+   "match": [
+    [
+     "share",
+     "%",
+     "percent",
+     "proportion"
+    ]
+   ],
+   "exclude": []
+  },
+  {
+   "request": 8,
+   "label": "Claim in euros",
+   "value": 642500,
+   "decimals": 0,
+   "sources": [
+    [
+     "6.2 v1"
+    ]
+   ],
+   "match": [
+    [
+     "eur",
+     "€",
+     "euro"
+    ]
+   ],
+   "exclude": [
+    "provision",
+    "gbp",
+    "£"
+   ]
+  },
+  {
+   "request": 8,
+   "label": "Claim in GBP at the closing rate",
+   "value": 543,
+   "decimals": 0,
+   "sources": [
+    [
+     "2.2 v1"
+    ],
+    [
+     "6.2 v1"
+    ]
+   ],
+   "match": [
+    [
+     "gbp",
+     "£",
+     "sterling"
+    ]
+   ],
+   "exclude": [
+    "provision",
+    "eur",
+    "€"
+   ]
+  },
+  {
+   "request": 8,
+   "label": "Provision",
+   "value": 210,
+   "decimals": 0,
+   "sources": [
+    [
+     "2.2 v1"
+    ]
+   ],
+   "match": [
+    [
+     "provision"
+    ]
+   ],
+   "exclude": []
+  },
+  {
+   "request": 9,
+   "label": "Group FTE",
+   "value": 609.8,
+   "decimals": 1,
+   "sources": [
+    [
+     "4.1 v2"
+    ]
+   ],
+   "match": [
+    [
+     "fte",
+     "full-time",
+     "full time"
+    ]
+   ],
+   "exclude": [
+    "kilcarrow"
+   ]
+  },
+  {
+   "request": 9,
+   "label": "Kilcarrow FTE",
+   "value": 58.6,
+   "decimals": 1,
+   "sources": [
+    [
+     "4.1 v2"
+    ]
+   ],
+   "match": [
+    [
+     "kilcarrow"
+    ]
+   ],
+   "exclude": []
+  }
+ ],
+ "sets": [
+  {
+   "request": 6,
+   "label": "customers over 5% of FY2026 revenue",
+   "members": [
+    "Wendmoor",
+    "Larchfold",
+    "Corrigal",
+    "Dunstreath"
+   ],
+   "candidates": [
+    "Wendmoor",
+    "Larchfold",
+    "Corrigal",
+    "Dunstreath",
+    "Thornacre",
+    "Glenvarra",
+    "Pemberwick",
+    "Brindlecombe",
+    "Mossford",
+    "Saxonhurst",
+    "Stanbury"
+   ]
+  }
+ ],
+ "manual": [
+  {
+   "request": 5,
+   "points": [
+    {
+     "id": "exists",
+     "text": "says contingent consideration exists, measured on Kilcarrow's FY2027 EBITDA (2.2)"
+    },
+    {
+     "id": "amount",
+     "text": "says the amount outstanding isn't disclosed, and gives no invented amount, zero or the accruals total as the amount"
+    },
+    {
+     "id": "date",
+     "text": "says no payment date is disclosed, and invents none"
+    },
+    {
+     "id": "follow-up",
+     "text": "names the SPA (Q-09, awaiting documents) or a consideration schedule as what's missing"
+    }
+   ]
+  },
+  {
+   "request": 7,
+   "points": [
+    {
+     "id": "consent",
+     "text": "consent of the (Majority) Lenders is needed in advance, because the buyer would take control"
+    },
+    {
+     "id": "remedy",
+     "text": "without it each lender may cancel its commitment and declare its loans immediately due and payable"
+    },
+    {
+     "id": "period",
+     "text": "by notice within 30 days"
+    },
+    {
+     "id": "source",
+     "text": "relies on 2.7, noting or consistent with 2.11 leaving the clause unchanged"
+    }
+   ]
+  },
+  {
+   "request": 10,
+   "points": [
+    {
+     "id": "restriction",
+     "text": "records that 4.2 is view only and wasn't sent (a route to obtain it is noted, not scored, because the brief doesn't ask for one)"
+    }
+   ]
+  }
+ ],
+ "files": {
+  "request": 10,
+  "required": [
+   "2.2-v1",
+   "3.1-v1"
+  ],
+  "view_only": [
+   "4.2-v1"
+  ]
+ },
+ "manifest": {
+  "1.1-v1": "0689894fa6d159a0b039d0243c9d36d7eb7fd1bbe19c1e2d85048ef87f1d4a3e",
+  "1.2-v1": "c0581eedf8b1f8cda145fad4eb135951a257cf1af673fe5979551fc0a986aab6",
+  "1.3-v1": "07a1978a6c88ecb80bd9f79910d1ab8783c49e6d1b6f68d98f6f1f4e9a414052",
+  "2.1-v1": "ddab9ac4a9cba9b02699a9211f7a61f3b6683d37b043f37c2647733dc4d472d6",
+  "2.2-v1": "9d641a07a419ba1444d0bd6dc4bc9d62c2d421a65ae16636ad829b6c5ca342d1",
+  "2.3-v1": "547f9511787367245e195740b163bd34e26c8a143e09a57053422d96d2663a95",
+  "2.4-v1": "8563252c6a4fa60f4282735ae65b84b35d351538c9d7225da97fab6644a7f4fb",
+  "2.5-v1": "d1d8e805503403a53bc3acd2f1dc460e43181aff8a916a7494ade583d35d1dcd",
+  "2.6-v1": "1dd9d36b7594c368542bdeaa7d12ea56776a7f493c80cae407cb40ce87e1b444",
+  "2.7-v1": "5f78182adc0608d8cce56d3084e8ca5a490e5f50df617efa6b5fd5b97dfd6fba",
+  "2.8-v1": "f9a1819d4e01b9f5d2cc82dcdb0205d0578b595ef4735ba0d653e27eeb218373",
+  "2.9-v1": "505cc97bab09e1971b3f5b65722e14b6e655c871507a27ec6f70bb020cd5944d",
+  "2.10-v1": "f2f5daa3ec6428359ebd27f6a819b3f155eda5f395085d63d42d672d24156cc8",
+  "2.11-v1": "32cd97877c8d47b95f84447a854468afb1373c70c6e5a3888ed77b101903430a",
+  "3.1-v1": "628de0ed531334ee7ea88e8d30e992925ee9078e768c0f12743ba90dbe33b46a",
+  "3.2-v1": "3df0c2c57040f9c15d771b24af7be00302c609333f9c79b66dc1e313e4beb3d0",
+  "3.3-v1": "c2554a747a50d6b5b07afbcbd3f820b444eab0e22ff6b6b723ce4a8b011afb63",
+  "3.4-v1": "9bb4231171e79ad6689c6d142d2fcf24adf27d9963e94a168f5e9a90a241b039",
+  "3.5-v1": "81603cc46ab3a8ede6f7149cf571777d6ca10e0e249784d5708c18a82f9f174f",
+  "3.6-v1": "446bda757d7edfc08845ce5d8fea6dc1dfad7d1f3acc2fbd7e222ec5aa859a2d",
+  "3.7-v1": "6f44eda8e947b3af62b56c6b165c8cd16a4ea8cb197d8fb117e3a0d7271f1b15",
+  "4.1-v1": "001a52b3a571c467a48c1bb2592b623715068279e213bb0d66e9bb7e213e47da",
+  "4.1-v2": "e6aad2e44110c856c31346fb94f59999f43386025aba33a5553754642d393efd",
+  "4.3-v1": "015b610fcb330df528a79eb4e24eaf4c6e3e485276b092af28993c890822b1a7",
+  "5.1-v1": "ee3b430a81c8f7a3337544ccce31d628b4166af2f1c34a31ea3179b9a5be7593",
+  "6.1-v1": "f021e237e782c2af4e834e9d4376d34ae66c0e6dbb4c5e62c34610d111729882",
+  "6.2-v1": "4fb46241067d4b526a63f20e0bb223df8b5ade6538e5084bd73488985c54d292",
+  "6.3-v1": "860f88ec1b3cebc486546b542e1f1008d66fc9f627f763ea3c4b22ffcb7b3ffb",
+  "7.1-v1": "7898512cc561bf2e7ae61b51d4d31fad77c2b5940f7c8d495c1e3013222f8a06",
+  "7.2-v1": "c45b3a690d865f9662d7f9c13576ac13658e971016b2a2a13c1a962fbf23ea53"
+ },
+ "pitfalls": {
+  "1": [
+   62090,
+   8450,
+   68760,
+   9040,
+   67730,
+   9380
+  ],
+  "2": [
+   6.7,
+   13.8
+  ],
+  "3": [
+   52400,
+   4960
+  ],
+  "4": [
+   3.0
+  ],
+  "5": [
+   4120
+  ],
+  "6": [
+   13510,
+   21.8,
+   27.4,
+   2980
+  ],
+  "8": [
+   547,
+   506
+  ],
+  "9": [
+   641,
+   62,
+   551.2
+  ]
+ }
+}

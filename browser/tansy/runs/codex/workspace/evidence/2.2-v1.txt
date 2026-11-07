@@ -1,0 +1,89 @@
+https://akw-data-room.maxfabian31.workers.dev/doc?id=2.2-v1
+                 Made-up data room for testing agents. Every company, person and figure here is fictional.
+
+Project Tansy · Document 2.2 · Version 1
+
+Audited consolidated financial statements FY2026
+Vennacott Holdings Limited and subsidiaries · Uploaded 2026-10-01 · Strictly private and confidential
+
+
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+
+Annual report and consolidated financial statements
+
+Year ended 31 March 2026. GBP thousands unless otherwise stated. Prepared under FRS 102. The
+following financial statements and notes are data-room extracts from the made-up annual report. The vendor
+has redacted the contingent consideration amount for this data-room extract; this redaction is not part of the
+audited annual report.
+
+Independent auditor’s report
+
+In our opinion the consolidated financial statements give a true and fair view of the group’s affairs and profit
+for the year in accordance with UK Generally Accepted Accounting Practice. Haddon Strete LLP, statutory
+auditor. 24 July 2026.
+
+Consolidated profit and loss account
+ GBP thousands                                                                 2026                          2025 (restated)
+
+ Revenue                                                                     61,800                                  51,650
+ Cost of sales                                                               39,200                                  32,760
+
+ Gross profit                                                                22,600                                  18,890
+
+ Administrative expenses                                                     16,970                                  14,340
+ Operating profit                                                              5,630                                  4,550
+ Interest payable                                                              1,650                                  1,100
+
+ Profit before tax                                                             3,980                                  3,450
+ Taxation                                                                       995                                     862
+
+ Profit for the year                                                           2,985                                  2,588
+               Made-up data room for testing agents. Every company, person and figure here is fictional.
+
+
+1. Accounting policies
+
+Installation revenue is recognised by stage of completion; maintenance and monitoring revenue over the
+service period. The closing exchange rate at 31 March 2026 was €1 = £0.8455. The average rate from
+acquisition was €1 = £0.8512.
+
+2. Prior-year adjustment
+
+Installation revenue had been recognised ahead of stage of completion. FY2025 revenue as first reported of
+£52,400k is reduced by £750k to £51,650k; associated cost of sales falls by £340k. Operating profit falls by
+£410k from £4,960k to £4,550k. The £103k tax credit reduces the retained earnings adjustment to £307k.
+Comparatives are restated. The FY2025 contract costs of £340k had been released to cost of sales with the
+premature revenue and were deferred by the correction. They were released in FY2026, when the
+management accounts also recorded those costs, so no additional FY2026 audit adjustment is needed for
+them. Costs on the contracts affected by the March 2026 cut-off were expensed as incurred and remain
+expensed; the FY2026 revenue correction therefore has no cost effect.
+
+3. Operating profit
+GBP thousands                                                                                              FY2026
+
+EBITDA before exceptional items                                                                             8,090
+Depreciation                                                                                                1,880
+Amortisation of acquired intangibles                                                                          410
+
+Exceptional acquisition costs                                                                                 170
+Operating profit                                                                                            5,630
+
+
+4. Acquisition
+
+On 1 July 2025 the group acquired Kilcarrow Fire Protection Limited. Cash of £8,280k (€9.6m) was paid on
+completion. Contingent consideration is calculated on Kilcarrow’s EBITDA for the year ending 31 March
+2027. The directors’ estimate at 31 March 2026 is included within accruals of £4,120k in total; contingent
+consideration amount: [redacted for the data room].
+
+5. Provisions
+
+A provision of £210k was held at 31 March 2026 in respect of Ardnacree Developments Ltd’s claim against
+Kilcarrow. The directors dispute the claim and have provided their best estimate of the settlement and
+associated costs.
+
+6. Pensions
+
+The group operates defined contribution arrangements only. Contributions are expensed as employees
+render service.
+

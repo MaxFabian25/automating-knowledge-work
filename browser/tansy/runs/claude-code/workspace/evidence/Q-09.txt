@@ -1,0 +1,7 @@
+https://akw-data-room.maxfabian31.workers.dev/qa.html (entry data: https://akw-data-room.maxfabian31.workers.dev/data/qa.json)
+Retrieved 2026-11-07 via agent-browser session.
+
+Q-09 [Legal] status: Awaiting documents; asked 2026-10-27; answered None
+Question: Please provide the Kilcarrow SPA and deferred and contingent consideration outstanding.
+Answer: The SPA will be made available and the contingent consideration redaction in 2.2 lifted in a later phase, once the Kilcarrow vendors’ consent to disclosure is in place.
+Referenced documents: 2.2

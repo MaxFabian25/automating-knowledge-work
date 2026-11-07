@@ -1,0 +1,3 @@
+Resolved both minor review notes: added document 1.2 evidence for Kilcarrow consideration and sorted customers by revenue. All numerical answers remain unchanged.
+
+Recorded decisions and source verification. `python3 -I check_answers.py` passes: 30 rows, all 10 requests, zero failures. Browser closed.

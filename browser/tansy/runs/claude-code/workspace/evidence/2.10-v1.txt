@@ -1,0 +1,17 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=2.10-v1 (file: https://akw-data-room.maxfabian31.workers.dev/files/2.10-v1-aged-debtors-at-30-september-2026.xlsx)
+Downloaded 2026-11-07 via the viewer's Download button; original saved alongside as 2.10-v1.xlsx. Text extract below.
+
+--- sheet Notes A1:A5
+A1='Vennacott Holdings Limited: basis and notes'
+A2='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A4='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='GBP thousands including VAT, aged from invoice date. Provision of £80k against balances over 90 days is not deducted below.'
+--- sheet Aged debtors A1:F9
+A1='Aged debtors'
+A2='GBP thousands, including VAT; ageing by invoice date'
+A3='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='Customer'  B5='0-30 days'  C5='31-60 days'  D5='61-90 days'  E5='Over 90 days'  F5='Total'
+A6='Wendmoor Housing Group'  B6=700  C6=130  D6=20  E6=0  F6=850
+A7='Larchfold Facilities Management Ltd'  B7=520  C7=90  D7=10  E7=0  F7=620
+A8='Other customers'  B8=4100  C8=660  D8=180  E8=140  F8=5080
+A9='Total trade debtors'  B9=5320  C9=880  D9=210  E9=140  F9=6550

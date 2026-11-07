@@ -1,0 +1,16 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=2.5-v1 (file: https://akw-data-room.maxfabian31.workers.dev/files/2.5-v1-ebitda-bridge-fy2026.html)
+Downloaded 2026-11-07 via the viewer's Download button; original saved alongside as 2.5-v1.html. Text extract below.
+
+2.5 EBITDA bridge FY2026 (v1)
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+Project Tansy · Document 2.5 · Version 1
+EBITDA bridge FY2026
+Vennacott Holdings Limited and subsidiaries · Uploaded 2026-10-01 · Strictly private and confidential
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+GBP thousands. Audited basis; not a covenant calculation.
+ | Item | FY2026
+ | Operating profit | 5,630
+ | Depreciation | 1,880
+ | Amortisation | 410
+ | Exceptional acquisition costs | 170
+ | EBITDA before exceptional items | 8,090

@@ -1,0 +1,32 @@
+Now I'll pull Q&A, the HTML documents (as shown in the viewer), and the downloadable PDFs/XLSX through the browser session.I've answered all ten requests. The full table is in **Project_Tansy_request_list_responses.xlsx**, with every figure tied to its source document and location, and a Workings sheet that shows each calculation. The Claude in Chrome tab wouldn't respond, so I opened the data room in a separate browser here, accepted its terms, and worked through its index, viewer and Q&A. I used current versions only, so the old v1 of the employee census (4.1) was not used.
+
+| # | Answer |
+|---|---|
+| 1 | Twelve months to 30 Sep 2026: revenue £68,020k; EBITDA before exceptional items £9,260k |
+| 2 | Revenue growth, six months to 30 Sep 2026: 20.8% as reported; 14.3% organic (Kilcarrow excluded from both periods) |
+| 3 | Revenue FY2026 £61,800k, FY2025 £51,650k; operating profit FY2026 £5,630k, FY2025 £4,550k |
+| 4 | Maximum leverage 3.25x; reported 2.84x |
+| 5 | Not in the data room: the amount is blacked out in 2.2, and the Kilcarrow sale agreement is still awaited (Q-09) |
+| 6 | Wendmoor £5,960k, Larchfold £4,310k, Dunstreath £3,420k, Corrigal £3,240k; together 27.3% of FY2026 revenue |
+| 7 | Yes, consent is needed. Without it, each lender may cancel its commitment and demand repayment of its share of the loans, by notice within 30 days after the change of control |
+| 8 | Claim €642,500, which is £543k; provision £210k |
+| 9 | Group 609.8 FTE; Kilcarrow 58.6 FTE |
+| 10 | 2.2 and 3.1 supplied as original files; 4.2 is view only and can't be sent |
+
+Where the documents disagreed:
+
+- **Leverage (4):** I used 3.25x from the 12 August 2026 amendment letter (2.11) and Q-07. The facilities summary (2.7) still says 3.00x, but it was written before the amendment.
+- **FY2025 audited results (3):** I used the restated FY2025 figures in the FY2026 statements (2.2) so both years are comparable. The FY2025 statements as first published (2.1) show revenue £52,400k and operating profit £4,960k.
+- **Ardnacree claim (8):** I used the letter of claim itself (6.2), which totals €642,500 (damages plus costs; interest is not quantified). The litigation schedule (6.1) shows damages of €598,000 only.
+- **Customers (6):** I included Dunstreath (Q-06) even though it isn't in the customer schedule. The schedule leaves out customers that no longer trade with the group, but Dunstreath was 5.5% of FY2026 revenue.
+
+**Two points for the buyer:**
+
+- **Request 7:** this answer comes from the vendor's summary of the facilities. The full facilities agreement isn't in the data room.
+- **Document 4.2:** the data room's terms bar copying or sending it. It says an authorised downloadable version can be requested through the Q&A. I haven't raised that request.
+
+Files are in the chat outputs:
+- Project_Tansy_request_list_responses.xlsx
+- Request 10 documents/
+  - 2.2-v1-audited-consolidated-financial-statements-fy2026.pdf
+  - 3.1-v1-top-customer-revenue-schedule-fy2026-and-six-months-to-30-september-2026.xlsx

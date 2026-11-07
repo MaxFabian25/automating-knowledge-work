@@ -1,0 +1,149 @@
+{
+  "_note": "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+  "deal": {
+    "group": "Vennacott Holdings Limited",
+    "fire": "Vennacott Fire & Security Limited",
+    "monitoring": "Vennacott Monitoring Limited",
+    "irish": "Kilcarrow Fire Protection Limited",
+    "adviser": "Ostler Wren Corporate Finance LLP",
+    "auditor": "Haddon Strete LLP",
+    "lender": "Calvemont Bank plc",
+    "owner": "Skerrow Capital Partners LLP"
+  },
+  "fy2026": {
+    "revenue": 61800,
+    "ebitda": 8090,
+    "op": 5630,
+    "depreciation": 1880,
+    "amortisation": 410,
+    "exceptional": 170,
+    "accruals": 4120,
+    "cash_paid": 8280,
+    "cutoff": 290,
+    "holiday": 70,
+    "cos": 39200,
+    "gross": 22600,
+    "admin": 16970,
+    "interest": 1650,
+    "pbt": 3980,
+    "tax": 995,
+    "pat": 2985
+  },
+  "fy2025": {
+    "revenue": 52400,
+    "op": 4960,
+    "restated_revenue": 51650,
+    "restated_op": 4550,
+    "cos": 33100,
+    "gross": 19300,
+    "admin": 14340,
+    "interest": 1100,
+    "pbt": 3860,
+    "tax": 965,
+    "pat": 2895
+  },
+  "fx": {
+    "closing": 0.8455,
+    "average": 0.8512
+  },
+  "covenants": {
+    "old": 3.0,
+    "max": 3.25,
+    "reported": 2.84,
+    "cover": 6.1,
+    "min_cover": 4.0,
+    "net_debt": 26640,
+    "ebitda": 9380
+  },
+  "claim": {
+    "damages": 598000,
+    "costs": 44500,
+    "total": 642500,
+    "provision": 210
+  },
+  "census": {
+    "fire_heads": 498,
+    "fire_fte": 476.3,
+    "monitor_heads": 81,
+    "monitor_fte": 74.9,
+    "irish_heads": 62,
+    "irish_fte": 58.6,
+    "heads": 641,
+    "fte": 609.8,
+    "old_heads": 579,
+    "old_fte": 551.2
+  },
+  "customers": [
+    {
+      "key": "0",
+      "name": "Wendmoor Housing Group",
+      "fy2026": 5960,
+      "h1fy2027": 3240
+    },
+    {
+      "key": "1",
+      "name": "Larchfold Facilities Management Ltd",
+      "fy2026": 4310,
+      "h1fy2027": 2380
+    },
+    {
+      "key": "2",
+      "name": "Corrigal Retail Parks plc",
+      "fy2026": 3240,
+      "h1fy2027": 1790
+    },
+    {
+      "key": "3",
+      "name": "Thornacre Care Homes Ltd",
+      "fy2026": 2980,
+      "h1fy2027": 1620
+    },
+    {
+      "key": "4",
+      "name": "Glenvarra Hotels Ltd",
+      "fy2026": 1410,
+      "h1fy2027": 1050
+    },
+    {
+      "key": "5",
+      "name": "Pemberwick Office Estates plc",
+      "fy2026": 1820,
+      "h1fy2027": 960
+    },
+    {
+      "key": "6",
+      "name": "Brindlecombe Schools Trust",
+      "fy2026": 1640,
+      "h1fy2027": 890
+    },
+    {
+      "key": "7",
+      "name": "Mossford Hospitals Ltd",
+      "fy2026": 1390,
+      "h1fy2027": 820
+    },
+    {
+      "key": "8",
+      "name": "Saxonhurst Hotels Ltd",
+      "fy2026": 1260,
+      "h1fy2027": 700
+    },
+    {
+      "key": "9",
+      "name": "Stanbury College Group",
+      "fy2026": 1150,
+      "h1fy2027": 650
+    }
+  ],
+  "comparative": {
+    "revenue": 51650,
+    "cos": 32760,
+    "gross": 18890,
+    "admin": 14340,
+    "op": 4550,
+    "interest": 1100,
+    "pbt": 3450,
+    "tax": 862,
+    "pat": 2588
+  }
+}

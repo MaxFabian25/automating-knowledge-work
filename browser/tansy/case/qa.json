@@ -1,0 +1,169 @@
+{
+  "banner": "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+  "statuses": [
+    "Answered",
+    "Open",
+    "Awaiting documents"
+  ],
+  "topics": [
+    "Financial",
+    "Commercial",
+    "People",
+    "Property",
+    "Legal",
+    "Operations"
+  ],
+  "entries": [
+    {
+      "id": "Q-01",
+      "topic": "Financial",
+      "status": "Answered",
+      "asked": "2026-10-05",
+      "answered": "2026-10-07",
+      "question": "Why do management and audited FY2026 revenue differ?",
+      "answer": "The installation cut-off adjustment is £290k. See 2.6 for the full reconciliation.",
+      "refs": [
+        "2.6",
+        "2.2",
+        "2.3"
+      ]
+    },
+    {
+      "id": "Q-02",
+      "topic": "Commercial",
+      "status": "Answered",
+      "asked": "2026-10-06",
+      "answered": "2026-10-09",
+      "question": "Has Wendmoor renewed?",
+      "answer": "Renewal discussions are continuing for the term ending 31 March 2027. No renewal has been signed.",
+      "refs": [
+        "3.2"
+      ]
+    },
+    {
+      "id": "Q-03",
+      "topic": "Property",
+      "status": "Answered",
+      "asked": "2026-10-08",
+      "answered": "2026-10-12",
+      "question": "Is there a break in the Nottingham lease?",
+      "answer": "The tenant break is 30 September 2028 with six months’ notice. No notice has been served.",
+      "refs": [
+        "5.1"
+      ]
+    },
+    {
+      "id": "Q-04",
+      "topic": "Legal",
+      "status": "Answered",
+      "asked": "2026-10-13",
+      "answered": "2026-10-15",
+      "question": "Has Ardnacree issued proceedings?",
+      "answer": "No proceedings have been issued. The company disputes liability and is reviewing technical evidence.",
+      "refs": [
+        "6.1",
+        "6.2"
+      ]
+    },
+    {
+      "id": "Q-05",
+      "topic": "People",
+      "status": "Answered",
+      "asked": "2026-10-21",
+      "answered": "2026-10-23",
+      "question": "Does the census include Kilcarrow fixed-term staff?",
+      "answer": "Version 2 includes employed fixed-term staff within Kilcarrow. Agency workers are excluded.",
+      "refs": [
+        "4.1"
+      ]
+    },
+    {
+      "id": "Q-06",
+      "topic": "Commercial",
+      "status": "Answered",
+      "asked": "2026-10-16",
+      "answered": "2026-10-19",
+      "question": "Why is Dunstreath absent from the top-customer schedule?",
+      "answer": "Dunstreath Retail Group plc left for a national facilities-management provider. The contract ended on 31 March 2026; FY2026 revenue was £3,420k on the management accounts basis. No other customer that has stopped trading with the group since 1 April 2025 had FY2026 revenue above £250k, counting all group companies, contracts and project work.",
+      "refs": [
+        "3.1",
+        "1.2"
+      ]
+    },
+    {
+      "id": "Q-07",
+      "topic": "Financial",
+      "status": "Answered",
+      "asked": "2026-10-29",
+      "answered": "2026-11-02",
+      "question": "Why does the certificate show 3.25:1 when 2.7 says 3.00:1?",
+      "answer": "The executed amendment letter of 12 August 2026 (2.11) set the maximum at 3.25:1 for test dates from 30 September 2026 to 31 March 2027, returning to 3.00:1 from 30 June 2027. Document 2.7 predates it and will be revised.",
+      "refs": [
+        "2.7",
+        "2.8",
+        "2.11"
+      ]
+    },
+    {
+      "id": "Q-08",
+      "topic": "Operations",
+      "status": "Answered",
+      "asked": "2026-10-22",
+      "answered": "2026-10-26",
+      "question": "When is the monitoring platform migration planned?",
+      "answer": "January 2027, following dual running and acceptance tests. The timetable remains subject to operational sign-off.",
+      "refs": [
+        "3.7"
+      ]
+    },
+    {
+      "id": "Q-09",
+      "topic": "Legal",
+      "status": "Awaiting documents",
+      "asked": "2026-10-27",
+      "answered": null,
+      "question": "Please provide the Kilcarrow SPA and deferred and contingent consideration outstanding.",
+      "answer": "The SPA will be made available and the contingent consideration redaction in 2.2 lifted in a later phase, once the Kilcarrow vendors’ consent to disclosure is in place.",
+      "refs": [
+        "2.2"
+      ]
+    },
+    {
+      "id": "Q-10",
+      "topic": "Financial",
+      "status": "Answered",
+      "asked": "2026-10-14",
+      "answered": "2026-10-16",
+      "question": "Is the FY2027 budget board-approved?",
+      "answer": "Yes, the board approved it on 26 March 2026; see the minutes extract at 1.3.",
+      "refs": [
+        "1.3",
+        "2.9"
+      ]
+    },
+    {
+      "id": "Q-11",
+      "topic": "Operations",
+      "status": "Open",
+      "asked": "2026-11-03",
+      "answered": null,
+      "question": "Please provide the detailed engineering capacity plan for FY2027.",
+      "answer": null,
+      "refs": [
+        "2.9"
+      ]
+    },
+    {
+      "id": "Q-12",
+      "topic": "People",
+      "status": "Answered",
+      "asked": "2026-10-20",
+      "answered": "2026-10-22",
+      "question": "Is census v2 complete?",
+      "answer": "Census v1 left out Kilcarrow. Version 2 of 19 October 2026 is complete. Please use v2.",
+      "refs": [
+        "4.1"
+      ]
+    }
+  ]
+}

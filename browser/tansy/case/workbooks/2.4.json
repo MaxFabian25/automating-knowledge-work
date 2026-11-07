@@ -1,0 +1,191 @@
+{
+  "_note": "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+  "sheets": [
+    {
+      "name": "Notes",
+      "kind": "notes",
+      "title": "Vennacott Holdings Limited: basis and notes",
+      "lines": [
+        "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+        "Financial year ends on 31 March. FY2026 is April 2025 to March 2026; H1 FY2027 is April to September 2026. Unaudited monthly management accounts, before audit adjustments.",
+        "Revenue by company is GBP-translated revenue included in consolidated management revenue, after eliminations. Kilcarrow is included only from acquisition on 1 July 2025.",
+        "Revenue by company reconciles to the P&L in this workbook. The revenue-by-stream analysis for FY2026 is in document 2.3. Costs are positive amounts.",
+        "Organic revenue excludes, from both the current and the comparative period, the revenue of any business acquired in the 24 months before the end of the current period."
+      ]
+    },
+    {
+      "name": "P&L",
+      "title": "P&L - h1fy2027",
+      "kind": "monthly",
+      "units": "GBP thousands, management accounts basis; costs positive",
+      "group": "h1fy2027",
+      "months": [
+        "Apr-26",
+        "May-26",
+        "Jun-26",
+        "Jul-26",
+        "Aug-26",
+        "Sep-26"
+      ],
+      "total_label": "H1 FY2027",
+      "rows": [
+        [
+          "total",
+          "Total revenue",
+          "revenue"
+        ],
+        [
+          "line",
+          "Direct labour",
+          "labour"
+        ],
+        [
+          "line",
+          "Materials",
+          "materials"
+        ],
+        [
+          "line",
+          "Subcontractors",
+          "subcontract"
+        ],
+        [
+          "total",
+          "Cost of sales",
+          "cos"
+        ],
+        [
+          "total",
+          "Gross profit",
+          "gross"
+        ],
+        [
+          "line",
+          "Central staff and administration",
+          "central"
+        ],
+        [
+          "line",
+          "Property",
+          "property"
+        ],
+        [
+          "line",
+          "Systems",
+          "systems"
+        ],
+        [
+          "total",
+          "Overheads",
+          "overheads"
+        ],
+        [
+          "total",
+          "EBITDA before exceptional items",
+          "ebitda"
+        ],
+        [
+          "line",
+          "Depreciation",
+          "depreciation"
+        ],
+        [
+          "line",
+          "Amortisation",
+          "amortisation"
+        ],
+        [
+          "line",
+          "Exceptional items",
+          "exceptional"
+        ],
+        [
+          "total",
+          "Operating profit",
+          "op"
+        ]
+      ],
+      "extra_cols": [
+        {
+          "label": "H1 FY2026",
+          "group": "fy2026",
+          "slice": [
+            0,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Revenue by company",
+      "title": "Revenue by company - h1fy2027",
+      "kind": "monthly",
+      "units": "GBP thousands, management accounts basis; costs positive",
+      "group": "h1fy2027",
+      "months": [
+        "Apr-26",
+        "May-26",
+        "Jun-26",
+        "Jul-26",
+        "Aug-26",
+        "Sep-26"
+      ],
+      "total_label": "H1 FY2027",
+      "rows": [
+        [
+          "line",
+          "Vennacott Fire & Security Limited",
+          "fire"
+        ],
+        [
+          "line",
+          "Vennacott Monitoring Limited",
+          "monitoring"
+        ],
+        [
+          "line",
+          "Kilcarrow Fire Protection Limited",
+          "kilcarrow"
+        ],
+        [
+          "total",
+          "Total revenue",
+          "revenue"
+        ]
+      ],
+      "extra_cols": [
+        {
+          "label": "H1 FY2026",
+          "group": "fy2026",
+          "slice": [
+            0,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KPIs",
+      "title": "KPIs",
+      "kind": "table",
+      "units": "GBP thousands, management accounts basis",
+      "header": [
+        "Measure",
+        "31 March 2026",
+        "30 September 2026"
+      ],
+      "rows": [
+        [
+          "Installation order book (contracted, not delivered)",
+          15280,
+          16940
+        ],
+        [
+          "Monitoring connections",
+          27100,
+          28400
+        ]
+      ]
+    }
+  ]
+}

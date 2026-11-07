@@ -1,0 +1,17 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=4.1-v2 (file: https://akw-data-room.maxfabian31.workers.dev/files/4.1-v2-employee-census-at-30-september-2026.xlsx)
+Downloaded 2026-11-07 via the viewer's Download button; original saved alongside as 4.1-v2.xlsx. Text extract below.
+
+--- sheet Notes A1:A5
+A1='Vennacott Holdings Limited: basis and notes'
+A2='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A4='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='Snapshot at 30 September 2026. Heads and FTE are separate measures; FTE is contracted hours divided by standard full-time hours. Agency workers excluded. Complete group perimeter, including Kilcarrow.'
+--- sheet Census A1:C9
+A1='Census'
+A2='Employees at 30 September 2026; FTE to one decimal'
+A3='Made-up data room for testing agents. Every company, person and figure here is fictional.'
+A5='Company'  B5='Headcount'  C5='FTE'
+A6='Vennacott Fire & Security Limited'  B6=498  C6=476.3
+A7='Vennacott Monitoring Limited'  B7=81  C7=74.9
+A8='Kilcarrow Fire Protection Limited'  B8=62  C8=58.6
+A9='Total'  B9=641  C9=609.8

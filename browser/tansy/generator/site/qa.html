@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Q&amp;A | {{site.room_title}}</title>
+<link rel="stylesheet" href="assets/vdr.css">
+</head>
+<body data-terms-key="{{site.terms_key}}">
+<a class="skip" href="#main">Skip to content</a>
+<div class="banner" role="note">{{site.banner}}</div>
+<header class="topbar">
+  <p class="brand">{{site.codename}} <span>Virtual data room</span></p>
+  <nav class="mainnav" aria-label="Data room">
+    <ul>
+      <li><a href="room.html">Documents</a></li>
+      <li><a href="qa.html" aria-current="page">Q&amp;A</a></li>
+      <li><button type="button" class="btn link" data-exit>Leave data room</button></li>
+    </ul>
+  </nav>
+</header>
+<main id="main" class="qa">
+  <h1>Questions and answers</h1>
+  <p class="lede">Bidders’ questions and the vendor’s answers. Answers form part of the information in the data room.</p>
+  <p id="status" class="status" role="status">Loading questions...</p>
+  <div id="qa" hidden>
+    <form id="qa-filters" class="filters" aria-label="Filter questions">
+      <div class="field">
+        <label for="f-status">Status</label>
+        <select id="f-status" name="status"><option value="">All statuses</option></select>
+      </div>
+      <div class="field">
+        <label for="f-topic">Topic</label>
+        <select id="f-topic" name="topic"><option value="">All topics</option></select>
+      </div>
+      <button type="button" id="f-reset" class="btn">Clear filters</button>
+    </form>
+    <p id="count" class="count" aria-live="polite"></p>
+    <ol id="qa-list" class="qa-list"></ol>
+    <nav id="pager" class="pager" aria-label="Pages of questions"></nav>
+  </div>
+</main>
+<script src="assets/common.js"></script>
+<script src="assets/qa.js"></script>
+</body>
+</html>

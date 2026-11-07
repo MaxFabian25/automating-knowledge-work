@@ -1,0 +1,7 @@
+https://akw-data-room.maxfabian31.workers.dev/qa.html (entry data: https://akw-data-room.maxfabian31.workers.dev/data/qa.json)
+Retrieved 2026-11-07 via agent-browser session.
+
+Q-07 [Financial] status: Answered; asked 2026-10-29; answered 2026-11-02
+Question: Why does the certificate show 3.25:1 when 2.7 says 3.00:1?
+Answer: The executed amendment letter of 12 August 2026 (2.11) set the maximum at 3.25:1 for test dates from 30 September 2026 to 31 March 2027, returning to 3.00:1 from 30 June 2027. Document 2.7 predates it and will be revised.
+Referenced documents: 2.7, 2.8, 2.11

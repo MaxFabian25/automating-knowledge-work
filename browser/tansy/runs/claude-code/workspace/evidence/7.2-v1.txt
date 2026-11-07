@@ -1,0 +1,14 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=7.2-v1 (file: https://akw-data-room.maxfabian31.workers.dev/files/7.2-v1-health-and-safety-record-fy2024-to-fy2026.html)
+Downloaded 2026-11-07 via the viewer's Download button; original saved alongside as 7.2-v1.html. Text extract below.
+
+7.2 Health and safety record FY2024 to FY2026 (v1)
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+Project Tansy · Document 7.2 · Version 1
+Health and safety record FY2024 to FY2026
+Vennacott Holdings Limited and subsidiaries · Uploaded 2026-10-01 · Strictly private and confidential
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+ | Year ended 31 March | Lost-time incidents | Days lost
+ | FY2024 | 3 | 18
+ | FY2025 | 2 | 12
+ | FY2026 | 2 | 10
+No fatalities. Incident counts include employed engineers and exclude subcontractors, which are tracked separately. Toolbox talks and electrical isolation checks are mandatory before work begins.

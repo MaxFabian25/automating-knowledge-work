@@ -1,0 +1,27 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=4.1-v2
+Documents
+4 People
+4.1 v2
+
+Document 4.1 | Version 2 (current)
+
+Employee census at 30 September 2026
+Type
+XLSX
+Uploaded
+19 Oct 2026
+Sheets
+2
+Folder
+4 People
+Download XLSX
+4.1-v2-employee-census-at-30-september-2026.xlsx
+
+Spreadsheets cannot be previewed in the data room. Download the file to open it.
+
+Sheets in this workbook
+Notes
+Census
+Version history
+Version 1, 12 Oct 2026 (superseded)
+Version 2, 19 Oct 2026 (current), shown above

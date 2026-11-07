@@ -1,0 +1,21 @@
+{
+  "ltm": {
+    "revenue": 68020,
+    "ebitda": 9260
+  },
+  "growth": {
+    "reported": "20.8",
+    "organic": "14.3"
+  },
+  "customers": {
+    "selected": {
+      "Wendmoor Housing Group": 5960,
+      "Larchfold Facilities Management Ltd": 4310,
+      "Corrigal Retail Parks plc": 3240,
+      "Dunstreath Retail Group plc": 3420
+    },
+    "sum": 16930,
+    "share": "27.3"
+  },
+  "claim_gbp000": "543"
+}

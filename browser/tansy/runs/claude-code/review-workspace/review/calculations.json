@@ -1,0 +1,58 @@
+{
+  "ltm_revenue": "68020",
+  "ltm_ebitda": "9260",
+  "ltm_components": {
+    "prior_revenue": "33640",
+    "current_revenue": "34380",
+    "prior_ebitda": "4740",
+    "current_ebitda": "4520"
+  },
+  "h1_prior_revenue": "28450",
+  "reported_growth_pct": "20.8",
+  "organic_current": "30360",
+  "organic_prior": "26570",
+  "organic_growth_pct": "14.3",
+  "customer_cutoff": "3104.50",
+  "qualifying_customers": {
+    "Wendmoor Housing Group": "5960",
+    "Larchfold Facilities Management Ltd": "4310",
+    "Corrigal Retail Parks plc": "3240",
+    "Dunstreath Retail Group plc": "3420"
+  },
+  "customer_shares_pct": {
+    "Wendmoor Housing Group": "9.6",
+    "Larchfold Facilities Management Ltd": "6.9",
+    "Corrigal Retail Parks plc": "5.2",
+    "Dunstreath Retail Group plc": "5.5"
+  },
+  "next_customer_share_pct": "4.8",
+  "combined_customer_revenue": "16930",
+  "combined_customer_share_pct": "27.3",
+  "net_debt": "26640",
+  "reported_leverage_recomputed": "2.84",
+  "quantified_claim_eur": "642500",
+  "claim_gbp": "543233.7500",
+  "claim_gbp_thousands_rounded": "543",
+  "group_fte": "609.8",
+  "kilcarrow_fte": "58.6",
+  "group_headcount": 641,
+  "audited_fy2025_revenue_restatement": "51650",
+  "audited_fy2025_operating_profit_restatement": "4550",
+  "audit_revenue_adjustment": "-290",
+  "audit_ebitda_adjustment": "-360",
+  "whole_share_acquisition_votes_pct": "100.0",
+  "file_checks": [
+    {
+      "delivered": "deliverables/files/2.2-v1-audited-consolidated-financial-statements-fy2026.pdf",
+      "current_download": "downloads/2.2-v1.pdf",
+      "identical": true,
+      "sha256": "9d641a07a419ba1444d0bd6dc4bc9d62c2d421a65ae16636ad829b6c5ca342d1"
+    },
+    {
+      "delivered": "deliverables/files/3.1-v1-top-customer-revenue-schedule-fy2026-and-six-months-to-30-september-2026.xlsx",
+      "current_download": "downloads/3.1-v1.xlsx",
+      "identical": true,
+      "sha256": "628de0ed531334ee7ea88e8d30e992925ee9078e768c0f12743ba90dbe33b46a"
+    }
+  ]
+}

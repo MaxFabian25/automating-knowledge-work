@@ -1,0 +1,29 @@
+{
+ "R1 LTM revenue": 68020,
+ "R1 LTM EBITDA bei": 9260,
+ "R2 reported growth %": "20.8",
+ "R2 organic revenue H1 FY2027 / H1 FY2026": [
+  30360,
+  26570
+ ],
+ "R2 organic growth %": "14.3",
+ "R4 leverage recomputed": "2.84",
+ "R6 shares %": {
+  "Wendmoor Housing Group": "9.6",
+  "Larchfold Facilities Management Ltd": "6.9",
+  "Corrigal Retail Parks plc": "5.2",
+  "Thornacre Care Homes Ltd": "4.8",
+  "Dunstreath Retail Group plc": "5.5"
+ },
+ "R6 over 5%": {
+  "Wendmoor Housing Group": 5960,
+  "Larchfold Facilities Management Ltd": 4310,
+  "Corrigal Retail Parks plc": 3240,
+  "Dunstreath Retail Group plc": 3420
+ },
+ "R6 combined revenue": 16930,
+ "R6 combined share %": "27.3",
+ "R8 GBP exact": "543233.7500",
+ "R8 GBP 000 rounded": "543",
+ "R9 FTE sum check": "609.8"
+}

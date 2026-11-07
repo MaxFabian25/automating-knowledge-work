@@ -1,0 +1,16 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=2.6-v1 (file: https://akw-data-room.maxfabian31.workers.dev/files/2.6-v1-reconciliation-fy2026-management-accounts-to-audited.html)
+Downloaded 2026-11-07 via the viewer's Download button; original saved alongside as 2.6-v1.html. Text extract below.
+
+2.6 Reconciliation FY2026: management accounts to audited (v1)
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+Project Tansy · Document 2.6 · Version 1
+Reconciliation FY2026: management accounts to audited
+Vennacott Holdings Limited and subsidiaries · Uploaded 2026-10-01 · Strictly private and confidential
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+GBP thousands. Adjustments relate to the year ended 31 March 2026.
+ | Item | Revenue | EBITDA before exceptional items
+ | Monthly management accounts | 62,090 | 8,450
+ | Installation cut-off | (290) | (290)
+ | Holiday pay accrual | - | (70)
+ | Audited | 61,800 | 8,090
+The installation cut-off line is net: £750k of revenue deferred at 31 March 2025 recognised in FY2026, less £1,040k recognised before stage completion at 31 March 2026. There is no incremental cost adjustment in this reconciliation; see the prior-year adjustment note in 2.2. The holiday pay accrual affects employee costs only. Depreciation, amortisation and exceptional acquisition costs are unchanged.

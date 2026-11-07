@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Documents | Project Tansy data room</title>
+<link rel="stylesheet" href="assets/vdr.css">
+</head>
+<body data-terms-key="pub-tansy.Tansy VDR terms v1.0, 1 October 2026.termsAccepted">
+<a class="skip" href="#main">Skip to content</a>
+<div class="banner" role="note">Made-up data room for testing agents. Every company, person and figure here is fictional.</div>
+<header class="topbar">
+  <p class="brand">Project Tansy <span>Virtual data room</span></p>
+  <nav class="mainnav" aria-label="Data room">
+    <ul>
+      <li><a href="room.html" aria-current="page">Documents</a></li>
+      <li><a href="qa.html">Q&amp;A</a></li>
+      <li><button type="button" class="btn link" data-exit>Leave data room</button></li>
+    </ul>
+  </nav>
+</header>
+<main id="main" class="room">
+  <h1>Documents</h1>
+  <p id="status" class="status" role="status">Loading the document index...</p>
+  <div class="layout" id="room" hidden>
+    <nav class="tree" aria-labelledby="tree-h">
+      <h2 id="tree-h">Folders</h2>
+      <ul id="tree" class="tree-list"></ul>
+    </nav>
+    <section class="docs" aria-labelledby="docs-h">
+      <h2 id="docs-h" class="visually-hidden">Document list</h2>
+      <form id="filters" class="filters" role="search" aria-label="Filter documents">
+        <div class="field grow">
+          <label for="q">Search</label>
+          <input id="q" name="q" type="search" autocomplete="off" placeholder="Name or index number">
+        </div>
+        <div class="field">
+          <label for="f-folder">Folder</label>
+          <select id="f-folder" name="folder"><option value="">All folders</option></select>
+        </div>
+        <div class="field">
+          <label for="f-type">Type</label>
+          <select id="f-type" name="type">
+            <option value="">All types</option>
+            <option value="PDF">PDF</option>
+            <option value="XLSX">XLSX</option>
+            <option value="HTML">HTML</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="f-from">Date from</label>
+          <input id="f-from" name="from" type="text" inputmode="numeric" autocomplete="off" placeholder="DD/MM/YYYY" aria-describedby="date-hint">
+        </div>
+        <div class="field">
+          <label for="f-to">Date to</label>
+          <input id="f-to" name="to" type="text" inputmode="numeric" autocomplete="off" placeholder="DD/MM/YYYY" aria-describedby="date-hint">
+        </div>
+        <p id="date-hint" class="hint">Dates as DD/MM/YYYY or YYYY-MM-DD. The filter includes both end dates.</p>
+        <p id="date-error" class="error hint" role="alert" hidden></p>
+        <div class="field">
+          <label for="f-sort">Sort by</label>
+          <select id="f-sort" name="sort">
+            <option value="index-asc">Index number</option>
+            <option value="date-desc">Date, newest first</option>
+            <option value="date-asc">Date, oldest first</option>
+          </select>
+        </div>
+        <div class="check field-check">
+          <input type="checkbox" id="f-superseded" name="superseded">
+          <label for="f-superseded">Show superseded versions</label>
+        </div>
+        <button type="button" id="f-reset" class="btn">Clear filters</button>
+      </form>
+      <p id="count" class="count" aria-live="polite"></p>
+      <div class="table-wrap">
+        <table class="doc-table">
+          <caption class="visually-hidden">Documents matching the filters. Use the Index and Date column buttons to sort.</caption>
+          <thead>
+            <tr>
+              <th scope="col" data-col="index"><button type="button" class="sort" data-sort="index">Index</button></th>
+              <th scope="col">Name</th>
+              <th scope="col">Type</th>
+              <th scope="col" data-col="date"><button type="button" class="sort" data-sort="date">Date</button></th>
+              <th scope="col">Version</th>
+              <th scope="col">Pages</th>
+            </tr>
+          </thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </div>
+      <nav id="pager" class="pager" aria-label="Pages of documents"></nav>
+    </section>
+  </div>
+</main>
+<script src="assets/common.js"></script>
+<script src="assets/room.js"></script>
+</body>
+</html>

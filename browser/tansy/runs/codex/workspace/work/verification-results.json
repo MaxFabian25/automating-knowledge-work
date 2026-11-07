@@ -1,0 +1,41 @@
+{
+  "3.1-v1": {
+    "version": "current",
+    "url": "https://akw-data-room.maxfabian31.workers.dev/doc.html?id=3.1-v1",
+    "sha256_matches_initial_evidence": true,
+    "filename": "3.1-v1-top-customer-revenue-schedule-fy2026-and-six-months-to-30-september-2026.xlsx",
+    "cells": {
+      "Top customers": {
+        "B6": 5960,
+        "B7": 4310,
+        "B8": 3240,
+        "B18": 62090
+      },
+      "Notes": {
+        "A5": "Revenue per customer is the total across all group companies, contracts and project work, on the management accounts basis. The ten largest customers by H1 FY2027 revenue are listed. Customers that no longer trade with the group are not listed. Every other customer still trading with the group had less than 2.0% of group revenue in each period shown."
+      }
+    }
+  },
+  "6.2-v1": {
+    "version": "current",
+    "url": "https://akw-data-room.maxfabian31.workers.dev/doc.html?id=6.2-v1",
+    "sha256_matches_initial_evidence": true,
+    "filename": "6.2-v1-letter-of-claim-from-ardnacree-developments-ltd-12-march-2026.pdf",
+    "pdf_text_matches_initial": true
+  },
+  "4.1-v2": {
+    "version": "current",
+    "url": "https://akw-data-room.maxfabian31.workers.dev/doc.html?id=4.1-v2",
+    "sha256_matches_initial_evidence": true,
+    "filename": "4.1-v2-employee-census-at-30-september-2026.xlsx",
+    "cells": {
+      "Census": {
+        "C8": 58.6,
+        "C9": 609.8
+      },
+      "Notes": {
+        "A5": "Snapshot at 30 September 2026. Heads and FTE are separate measures; FTE is contracted hours divided by standard full-time hours. Agency workers excluded. Complete group perimeter, including Kilcarrow."
+      }
+    }
+  }
+}

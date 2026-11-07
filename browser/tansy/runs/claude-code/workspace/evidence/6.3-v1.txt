@@ -1,0 +1,14 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=6.3-v1 (file: https://akw-data-room.maxfabian31.workers.dev/files/6.3-v1-insurance-schedule.html)
+Downloaded 2026-11-07 via the viewer's Download button; original saved alongside as 6.3-v1.html. Text extract below.
+
+6.3 Insurance schedule (v1)
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+Project Tansy · Document 6.3 · Version 1
+Insurance schedule
+Vennacott Holdings Limited and subsidiaries · Uploaded 2026-10-01 · Strictly private and confidential
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+ | Cover | Limit | Period
+ | Employers liability | £10m | 1 April 2026 to 31 March 2027
+ | Public and products liability | £10m | 1 April 2026 to 31 March 2027
+ | Professional indemnity | £5m | 1 April 2026 to 31 March 2027
+Claims are subject to policy terms, exclusions and deductibles. This schedule does not confirm cover for any individual claim.

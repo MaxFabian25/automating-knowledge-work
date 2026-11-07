@@ -1,0 +1,17 @@
+https://akw-data-room.maxfabian31.workers.dev/doc.html?id=2.7-v1 (file: https://akw-data-room.maxfabian31.workers.dev/files/2.7-v1-senior-facilities-summary.html)
+Downloaded 2026-11-07 via the viewer's Download button; original saved alongside as 2.7-v1.html. Text extract below.
+
+2.7 Senior facilities summary (v1)
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+Project Tansy · Document 2.7 · Version 1
+Senior facilities summary
+Vennacott Holdings Limited and subsidiaries · Uploaded 2026-10-01 · Strictly private and confidential
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+Dated 20 July 2026. Syndicated facilities: Calvemont Bank plc as agent for a club of lenders. Borrower: Vennacott Holdings Limited.
+ | Facility | Commitment (£000)
+ | Term loan | 22,000
+ | Revolving credit facility | 8,000
+Financial covenants
+Maximum leverage is 3.00:1. Interest cover must be at least 4.00:1. Both use the definitions in the senior facilities agreement and are tested quarterly.
+Change of control
+If any person or persons acting together, other than funds advised by Skerrow Capital Partners, gain control of Vennacott Holdings (more than 50% of the voting shares), and the Majority Lenders have not consented in advance, each lender may, by notice given within 30 days after the change of control, cancel its commitment and declare its share of all loans immediately due and payable.

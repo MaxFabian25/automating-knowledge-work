@@ -1,0 +1,93 @@
+{
+  "_note": "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+  "sheets": [
+    {
+      "name": "Notes",
+      "kind": "notes",
+      "title": "Vennacott Holdings Limited: basis and notes",
+      "lines": [
+        "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+        "Revenue per customer is the total across all group companies, contracts and project work, on the management accounts basis. The ten largest customers by H1 FY2027 revenue are listed. Customers that no longer trade with the group are not listed. Every other customer still trading with the group had less than 2.0% of group revenue in each period shown.",
+        "FY2026: year ended 31 March 2026. H1 FY2027: six months ended 30 September 2026. Figures before audit adjustments; see 2.6."
+      ]
+    },
+    {
+      "name": "Top customers",
+      "title": "Top customers",
+      "kind": "table",
+      "units": "GBP thousands, management accounts basis",
+      "header": [
+        "Customer",
+        "FY2026",
+        "H1 FY2027"
+      ],
+      "rows": [
+        [
+          "Wendmoor Housing Group",
+          5960,
+          3240
+        ],
+        [
+          "Larchfold Facilities Management Ltd",
+          4310,
+          2380
+        ],
+        [
+          "Corrigal Retail Parks plc",
+          3240,
+          1790
+        ],
+        [
+          "Thornacre Care Homes Ltd",
+          2980,
+          1620
+        ],
+        [
+          "Glenvarra Hotels Ltd",
+          1410,
+          1050
+        ],
+        [
+          "Pemberwick Office Estates plc",
+          1820,
+          960
+        ],
+        [
+          "Brindlecombe Schools Trust",
+          1640,
+          890
+        ],
+        [
+          "Mossford Hospitals Ltd",
+          1390,
+          820
+        ],
+        [
+          "Saxonhurst Hotels Ltd",
+          1260,
+          700
+        ],
+        [
+          "Stanbury College Group",
+          1150,
+          650
+        ],
+        [
+          "Listed customers",
+          25160,
+          14100
+        ],
+        [
+          "Other customers",
+          36930,
+          20280
+        ],
+        [
+          "Total revenue (management basis)",
+          62090,
+          34380
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Made-up data room for testing agents. Every company, person and figure here is fictional.
+
+To Ostler Wren Corporate Finance LLP, for the vendor. From the buyer's deal team. 9 November 2026. Re: Vennacott Holdings Limited and subsidiaries, first-round information requests. "Please answer each request from the Project Tansy data room. For each answer, cite the document index number and version, or the Q&A reference, that it relies on. Rely on current versions only. Amounts are in GBP thousands (£000) unless a request says otherwise. The financial year ends on 31 March: FY2026 is the year ended 31 March 2026 and FY2027 the year ending 31 March 2027."
+
+1. **Last twelve months.** Please provide revenue and EBITDA before exceptional items for the twelve months to 30 September 2026, on the monthly management accounts basis, in GBP thousands.
+2. **Organic growth.** Please give revenue growth for the six months to 30 September 2026 against the same six months of 2025, both as reported and on the group's own definition of organic growth, on the management accounts basis, as percentages to one decimal place.
+3. **Audited results.** Please provide audited revenue and operating profit for FY2025 and FY2026, on a comparable basis, in GBP thousands.
+4. **Leverage covenant.** Please state the maximum leverage (net debt to EBITDA) that the senior facilities permit at the 30 September 2026 test date, and the leverage the group reported for that test date.
+5. **Kilcarrow consideration.** Please confirm the deferred and contingent consideration still outstanding for the acquisition of Kilcarrow Fire Protection Limited, in GBP thousands, and when each payment falls due.
+6. **Customer concentration.** Please list every customer that accounted for more than 5% of FY2026 revenue on the management accounts basis, with its FY2026 revenue, and give their combined share of FY2026 revenue as a percentage to one decimal place.
+7. **Change of control.** Our acquisition of the whole issued share capital of Vennacott Holdings Limited: would it need the consent of the lenders under the senior facilities? If consent is not obtained, what may the lenders do, and within what period?
+8. **Ardnacree claim.** For the claim by Ardnacree Developments Ltd against Kilcarrow, please state the exact quantified total claimed in the letter of claim, in euros, and its GBP equivalent at the closing exchange rate used in the FY2026 audited financial statements, in £000 rounded to the nearest whole £000. Please also give the provision held for the claim at 31 March 2026 per those statements.
+9. **Employees.** Please give the group's total full-time-equivalent (FTE) employees at 30 September 2026, and the FTE employed by Kilcarrow, to one decimal place.
+10. **Documents.** Please download and send us the current versions of the FY2026 audited consolidated financial statements (document 2.2), the top-customer revenue schedule (document 3.1) and the senior management service agreement summary (document 4.2), in their original file formats.
+

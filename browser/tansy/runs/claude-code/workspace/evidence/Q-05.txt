@@ -1,0 +1,7 @@
+https://akw-data-room.maxfabian31.workers.dev/qa.html (entry data: https://akw-data-room.maxfabian31.workers.dev/data/qa.json)
+Retrieved 2026-11-07 via agent-browser session.
+
+Q-05 [People] status: Answered; asked 2026-10-21; answered 2026-10-23
+Question: Does the census include Kilcarrow fixed-term staff?
+Answer: Version 2 includes employed fixed-term staff within Kilcarrow. Agency workers are excluded.
+Referenced documents: 4.1

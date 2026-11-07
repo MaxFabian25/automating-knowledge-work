@@ -1,0 +1,208 @@
+{
+  "_note": "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+  "sheets": [
+    {
+      "name": "Notes",
+      "kind": "notes",
+      "title": "Vennacott Holdings Limited: basis and notes",
+      "lines": [
+        "Made-up data room for testing agents. Every company, person and figure here is fictional.",
+        "Financial year ends on 31 March. FY2026 is April 2025 to March 2026; H1 FY2027 is April to September 2026. Unaudited monthly management accounts, before audit adjustments.",
+        "Revenue by company is GBP-translated revenue included in consolidated management revenue, after eliminations. Kilcarrow is included only from acquisition on 1 July 2025.",
+        "Revenue by stream is a separate analysis of the same consolidated revenue. Costs are positive amounts."
+      ]
+    },
+    {
+      "name": "P&L",
+      "title": "P&L - fy2026",
+      "kind": "monthly",
+      "units": "GBP thousands, management accounts basis; costs positive",
+      "group": "fy2026",
+      "months": [
+        "Apr-25",
+        "May-25",
+        "Jun-25",
+        "Jul-25",
+        "Aug-25",
+        "Sep-25",
+        "Oct-25",
+        "Nov-25",
+        "Dec-25",
+        "Jan-26",
+        "Feb-26",
+        "Mar-26"
+      ],
+      "total_label": "FY2026",
+      "rows": [
+        [
+          "total",
+          "Total revenue",
+          "revenue"
+        ],
+        [
+          "line",
+          "Direct labour",
+          "labour"
+        ],
+        [
+          "line",
+          "Materials",
+          "materials"
+        ],
+        [
+          "line",
+          "Subcontractors",
+          "subcontract"
+        ],
+        [
+          "total",
+          "Cost of sales",
+          "cos"
+        ],
+        [
+          "total",
+          "Gross profit",
+          "gross"
+        ],
+        [
+          "line",
+          "Central staff and administration",
+          "central"
+        ],
+        [
+          "line",
+          "Property",
+          "property"
+        ],
+        [
+          "line",
+          "Systems",
+          "systems"
+        ],
+        [
+          "total",
+          "Overheads",
+          "overheads"
+        ],
+        [
+          "total",
+          "EBITDA before exceptional items",
+          "ebitda"
+        ],
+        [
+          "line",
+          "Depreciation",
+          "depreciation"
+        ],
+        [
+          "line",
+          "Amortisation",
+          "amortisation"
+        ],
+        [
+          "line",
+          "Exceptional items",
+          "exceptional"
+        ],
+        [
+          "total",
+          "Operating profit",
+          "op"
+        ]
+      ]
+    },
+    {
+      "name": "Revenue by company",
+      "title": "Revenue by company - fy2026",
+      "kind": "monthly",
+      "units": "GBP thousands, management accounts basis; costs positive",
+      "group": "fy2026",
+      "months": [
+        "Apr-25",
+        "May-25",
+        "Jun-25",
+        "Jul-25",
+        "Aug-25",
+        "Sep-25",
+        "Oct-25",
+        "Nov-25",
+        "Dec-25",
+        "Jan-26",
+        "Feb-26",
+        "Mar-26"
+      ],
+      "total_label": "FY2026",
+      "rows": [
+        [
+          "line",
+          "Vennacott Fire & Security Limited",
+          "fire"
+        ],
+        [
+          "line",
+          "Vennacott Monitoring Limited",
+          "monitoring"
+        ],
+        [
+          "line",
+          "Kilcarrow Fire Protection Limited",
+          "kilcarrow"
+        ],
+        [
+          "total",
+          "Total revenue",
+          "revenue"
+        ]
+      ]
+    },
+    {
+      "name": "Revenue by stream",
+      "title": "Revenue by stream - fy2026",
+      "kind": "monthly",
+      "units": "GBP thousands, management accounts basis; costs positive",
+      "group": "fy2026",
+      "months": [
+        "Apr-25",
+        "May-25",
+        "Jun-25",
+        "Jul-25",
+        "Aug-25",
+        "Sep-25",
+        "Oct-25",
+        "Nov-25",
+        "Dec-25",
+        "Jan-26",
+        "Feb-26",
+        "Mar-26"
+      ],
+      "total_label": "FY2026",
+      "rows": [
+        [
+          "line",
+          "Installation",
+          "installation"
+        ],
+        [
+          "line",
+          "Maintenance",
+          "maintenance"
+        ],
+        [
+          "line",
+          "Remedial work",
+          "remedial"
+        ],
+        [
+          "line",
+          "Alarm monitoring",
+          "alarm_monitoring"
+        ],
+        [
+          "total",
+          "Total revenue",
+          "revenue"
+        ]
+      ]
+    }
+  ]
+}
