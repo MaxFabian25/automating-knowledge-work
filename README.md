@@ -153,9 +153,9 @@ A rebuild reproduces every HTML, JSON, JavaScript and CSS file byte for byte. Th
 
 ## Rerun the case
 
-The brief and `toolkit/case.json` give the hosted room's address, which may no longer answer. To run against a local copy, serve the room as above and change the address in `brief.md` and the `room` and `domain` in `case.json`.
+The brief and `toolkit/case.json` give the hosted room's address, which may no longer answer. To run against a local copy, serve the room as above and change the address in `brief.md` and the `room` and `domain` in `case.json`. `run.sh` finds the brief relative to `case.json`, which names it `brief.md`, so in this layout also set `"brief": "../brief.md"`. Make these changes in a working copy, so the archived files stay as recorded.
 
-`run.sh` takes `case.json`, the producer (`claude` or `codex`) and a run ID, and writes the results next to `case.json`. It needs Bash, bubblewrap, Claude Code, the Codex CLI, agent-browser, Google Chrome, `pdftotext`, Python 3 with `openpyxl`, OpenSSL and Git, with both harnesses signed in.
+`run.sh` takes `case.json`, the producer (`claude` or `codex`) and a run ID, and writes the results next to `case.json`. It needs Bash, bubblewrap, Claude Code, the Codex CLI, agent-browser, Google Chrome, `pdftotext`, Python 3 with `openpyxl` and `pypdf` (the check opens delivered PDFs with `pypdf`), OpenSSL and Git, with both harnesses signed in.
 
 `sandbox.sh` is written for the author's machine, a Linux system under WSL. It expects Node, Python and the harnesses at the author's install paths, a Codex login copy under `~/.local/share/akw/`, and WSL's `/mnt/wsl/resolv.conf`. Adjust those paths before you use it. `test_sandbox.sh` takes a file holding a canary string of the form `akwcanary-` and 16 hexadecimal digits. Plant the same string in your private case files, so the test can show that the sandbox can't read them.
 
